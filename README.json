@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T05:21:08Z",
+            "last_commit": "2026-08-16T04:18:31Z",
             "owner": "sy-records",
             "repo": "docsify-nightly",
             "stars": 2
@@ -1786,7 +1786,7 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96353
+            "stars": 96359
           }
         },
         {
@@ -1800,7 +1800,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 64976
+            "stars": 65046
           }
         }
       ],
@@ -1818,7 +1818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:16:42.710Z",
+    "last_updated": "2026-08-16T19:16:45.296Z",
     "original_repository": "docsifyjs/awesome-docsify",
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
     "enhanced_repository": "enhansome/enhansome-docsify",
