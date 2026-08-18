@@ -256,7 +256,7 @@
             "last_commit": "2026-05-09T17:41:46Z",
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -1786,7 +1786,7 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96364
+            "stars": 96371
           }
         },
         {
@@ -1800,7 +1800,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65166
+            "stars": 65396
           }
         }
       ],
@@ -1818,7 +1818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:22:49.537Z",
+    "last_updated": "2026-08-18T19:22:30.798Z",
     "original_repository": "docsifyjs/awesome-docsify",
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
     "enhanced_repository": "enhansome/enhansome-docsify",
