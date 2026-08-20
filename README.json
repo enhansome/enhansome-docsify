@@ -228,7 +228,7 @@
             "archived": false,
             "id": 326521262,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T04:18:31Z",
+            "last_commit": "2026-08-20T04:19:00Z",
             "owner": "sy-records",
             "repo": "docsify-nightly",
             "stars": 2
@@ -1899,7 +1899,7 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96385
+            "stars": 96403
           }
         },
         {
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 65654
+            "stars": 65871
           }
         }
       ],
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:19:54.065Z",
+    "last_updated": "2026-08-20T19:25:13.901Z",
     "original_repository": "docsifyjs/awesome-docsify",
     "original_repository_id": 118699373,
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
