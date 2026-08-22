@@ -1899,7 +1899,7 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96424
+            "stars": 96433
           }
         },
         {
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 66108
+            "stars": 66304
           }
         }
       ],
@@ -1922,7 +1922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:21:03.909Z",
+    "last_updated": "2026-08-22T19:17:48.607Z",
     "original_repository": "docsifyjs/awesome-docsify",
     "original_repository_id": 118699373,
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
