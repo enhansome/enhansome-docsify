@@ -602,6 +602,21 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-chat",
+          "description": "A docsify plugin for generate chat panel from markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489702280,
+            "language": "TypeScript",
+            "last_commit": "2025-04-16T11:15:59Z",
+            "owner": "xueelf",
+            "repo": "docsify-chat",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
           "title": "docsify-count",
           "description": "Add word count for markdown files of docsify.(添加字数统计)@827652549.",
           "children": [],
@@ -642,21 +657,6 @@
             "last_commit": "2026-06-19T00:52:34Z",
             "owner": "zuisong",
             "repo": "docsify-kroki",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-chat",
-          "description": "A docsify plugin for generate chat panel from markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 489702280,
-            "language": "TypeScript",
-            "last_commit": "2025-04-16T11:15:59Z",
-            "owner": "xueelf",
-            "repo": "docsify-chat",
             "stars": 20
           }
         },
@@ -1899,7 +1899,7 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96458
+            "stars": 96462
           }
         },
         {
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 66729
+            "stars": 66812
           }
         }
       ],
@@ -1965,7 +1965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:23:30.002Z",
+    "last_updated": "2026-08-25T05:54:05.918Z",
     "original_repository": "docsifyjs/awesome-docsify",
     "original_repository_id": 118699373,
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
