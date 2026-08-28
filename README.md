@@ -25,7 +25,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) ⭐ 1,015 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-26 - A simple and customizable data table, based on vue2 and element-ui.
 * [Vudash](https://github.com/vudash/vudash) ⭐ 430 | 🐛 22 | 🌐 JavaScript | 📅 2020-06-06 - Powerful, Flexible, Open Source dashboards for anything.
 * [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) ⭐ 130 | 🐛 8 | 🌐 PHP | 📅 2026-07-26 project.
-* [:construction\_worker: :orange\_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) ⭐ 45 | 🐛 17 | 🌐 Makefile | 📅 2022-06-14 - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
+* [:construction\_worker: :orange\_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) ⭐ 46 | 🐛 17 | 🌐 Makefile | 📅 2022-06-14 - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
 * [:repeat\_one: :hourglass\_flowing\_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) ⭐ 17 | 🐛 28 | 🌐 Python | 📅 2024-07-19 - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. @MichaelCurrin.
 * [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) ⭐ 5 | 🐛 38 | 📅 2022-01-08 - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. @MichaelCurrin.
 * [codoxify](https://github.com/wavejumper/codoxify) ⭐ 1 | 🐛 0 | 🌐 Clojure | 📅 2020-08-02 - Generate Clojure documentation for docsify.
@@ -301,8 +301,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,483 | 🐛 111 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,283 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,481 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,389 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -326,4 +326,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
