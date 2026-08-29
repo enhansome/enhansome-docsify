@@ -152,6 +152,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
 * [Subhranil's Docs](https://subhranildas.github.io/Docs/) - A customizable technical documentation site for quick reference on several topics.
 * [Injee Docs](https://injee.codeberg.page/docs/#/) - Docs for Injee - - The no configuration instant Database for front end developers.
+* [JSON Model](https://json-model.org/) - Docs and benches for JSON Model, a compact and intuitive JSON syntax to describe JSON data structures.
+* [KIVA Practice Session](https://kiva.cri.minesparis.psl.eu/) - KIVA Flask and Postgres backend programming practice session for students.
 
 ## Community Resources
 
@@ -301,8 +303,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,488 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,564 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,501 | 🐛 117 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,686 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -312,13 +314,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,646 | 🐛 4 | 📅 2026-05-18!
+[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-05-18
+[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29
 
-[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-05-18
+[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29
 
 <!-- Place multiple link references here to avoid lint errors -->
 
