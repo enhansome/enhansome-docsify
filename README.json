@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, customizable and pageable table with SSR support, based on vue2 and element-ui",
+            "homepage": "https://njleonzhang.github.io/vue-data-tables",
             "id": 76699330,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-26T08:55:01Z",
+            "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1015
+            "stars": 1015,
+            "topics": [
+              "datatable",
+              "datatables",
+              "table",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -26,12 +36,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful, Flexible, Open Source dashboards for anything",
+            "homepage": null,
             "id": 59128475,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-06T10:32:07Z",
+            "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "analytics",
+              "automation",
+              "cryptocurrencies",
+              "dashboard",
+              "dashing",
+              "hapi",
+              "hapijs",
+              "home-automation",
+              "monitoring",
+              "overview",
+              "rollup",
+              "statistics",
+              "svelte",
+              "sveltejs",
+              "tv",
+              "viewer",
+              "vudash",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -42,12 +76,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Versatile PHP election engine (library & CLI) with a high-level API. Handles everything from the simplest use cases to advanced options and simulation tools. Supports 20+ native Condorcet-like voting methods (extensible), scales from small polls to billions of votes in resource-constrained environments. Rigorously tested and documented.",
+            "homepage": "https://docs.condorcet.io",
             "id": 17303525,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-26T22:58:18Z",
+            "open_issues": 8,
             "owner": "julien-boudry",
             "repo": "Condorcet",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "alternative-vote",
+              "borda-count",
+              "condorcet",
+              "condorcet-methods",
+              "copeland",
+              "dodgson",
+              "election",
+              "election-manager",
+              "election-polling",
+              "election-reform",
+              "ftpt",
+              "instant-runoff",
+              "instant-runoff-voting",
+              "kemeny-young",
+              "minimax",
+              "ranked-pairs",
+              "schulze-method",
+              "stv",
+              "vote",
+              "voting-methods"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -58,12 +118,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build a Markdown-based docs site using DocsifyJS and GH Pages 👩‍🏫 🏗 📒 🕸",
+            "homepage": "https://michaelcurrin.github.io/docsify-js-tutorial/#/",
             "id": 205015239,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2022-06-14T19:20:24Z",
+            "open_issues": 17,
             "owner": "MichaelCurrin",
             "repo": "docsify-js-tutorial",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "demo",
+              "docs-generator",
+              "docs-site",
+              "docsify",
+              "docsify-plugin",
+              "docsifyjs",
+              "docsifyjs-tutorial",
+              "documentation",
+              "github-pages",
+              "markdown",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -74,12 +151,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The tenacious but efficient scheduler for daily tasks 🔂 ⏳ 🦄",
+            "homepage": "https://michaelcurrin.github.io/unicron/",
             "id": 231728130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-19T08:44:56Z",
+            "open_issues": 28,
             "owner": "MichaelCurrin",
             "repo": "unicron",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cron",
+              "python",
+              "scheduler",
+              "scheduler-service",
+              "scheduling-tasks",
+              "task-manager",
+              "task-scheduler"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -90,12 +180,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code snippets and links to docs around using the Twitter API and Tweepy 🐍 🐦",
+            "homepage": "https://michaelcurrin.github.io/python-twitter-guide/",
             "id": 255544219,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-01-08T09:34:13Z",
+            "open_issues": 38,
             "owner": "MichaelCurrin",
             "repo": "python-twitter-guide",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "code-snippets",
+              "guide",
+              "python",
+              "python3",
+              "snippets",
+              "tutorial",
+              "tweepy",
+              "twitter",
+              "twitter-api"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -106,12 +211,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Clojure documentation for docsify",
+            "homepage": "https://tscrowley.dev/codoxify/",
             "id": 267304238,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2020-08-02T12:01:51Z",
+            "open_issues": 0,
             "owner": "wavejumper",
             "repo": "codoxify",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "api",
+              "clojure",
+              "clojurescript",
+              "codox",
+              "docsify",
+              "documentation",
+              "documentation-generator",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         }
@@ -128,12 +247,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker way to convert Docsify pages to PDF (with Puppeteer)",
+            "homepage": null,
             "id": 461337512,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-17T14:58:20Z",
+            "open_issues": 0,
             "owner": "kernoeb",
             "repo": "docker-docsify-pdf",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "docker",
+              "docsify",
+              "markdown",
+              "pdf",
+              "table-of-contents",
+              "toc"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -144,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.",
+            "homepage": null,
             "id": 217668799,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-10-26T13:35:16Z",
+            "open_issues": 0,
             "owner": "bharatdwarkani",
             "repo": "docsify-dotnet-core",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -160,12 +296,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ready-to-go dev container for trying out docsify, magical static site generating tool for docs, static sites, et al.",
+            "homepage": "https://alertbox.github.io/try-docsify/",
             "id": 271453996,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-06-03T19:30:02Z",
+            "open_issues": 0,
             "owner": "alertbox",
             "repo": "try-docsify",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "devcontainer-template",
+              "devcontainers",
+              "docsify",
+              "github-pages",
+              "markdown",
+              "static-website"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -176,12 +324,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for creating your own Docsify plugin",
+            "homepage": "https://dev.to/corentinleberre/enhance-your-docsify-experience-with-your-own-plugin-33aj",
             "id": 577562099,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-27T19:19:42Z",
+            "open_issues": 2,
             "owner": "corentinleberre",
             "repo": "create-docsify-plugin",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "docsify-template"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -192,12 +349,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Template for building notebooks with docsify.",
+            "homepage": "https://monkeyandres.com/docsify-notebooks/#/README",
             "id": 314055718,
             "language": "HTML",
+            "license": "Unlicense",
             "last_commit": "2021-01-08T10:18:12Z",
+            "open_issues": 0,
             "owner": "MonkeyAndres",
             "repo": "docsify-notebooks",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "docsify",
+              "docsify-template",
+              "notebooks"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -208,12 +374,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":green_book: Docsify Docker Image :whale2:",
+            "homepage": null,
             "id": 377792719,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-01T07:24:14Z",
+            "open_issues": 1,
             "owner": "sujaykumarh",
             "repo": "docsify-docker",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "docker-docsify",
+              "docsify",
+              "docsify-container",
+              "docsify-docker",
+              "sujaykumarh"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -224,12 +401,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a sitemap for docsify project.",
+            "homepage": "http://docsify-sitemap.js.org",
             "id": 981709200,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-15T20:17:31Z",
+            "open_issues": 0,
             "owner": "tenelabs",
             "repo": "docsify-sitemap",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "docsify-sitemap",
+              "docsify-tool"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -240,12 +427,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Nightly release for docsify.",
+            "homepage": "https://cdn.jsdelivr.net/gh/sy-records/docsify-nightly@develop/",
             "id": 326521262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T06:36:30Z",
+            "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "docsify",
+              "nightly"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         }
@@ -262,12 +457,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a docsify plugin, support sidebar catalog expand and collapse",
+            "homepage": null,
             "id": 159182413,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T15:25:27Z",
+            "open_issues": 20,
             "owner": "iPeng6",
             "repo": "docsify-sidebar-collapse",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "docsify",
+              "docsify-sidebar-collapse",
+              "sidebar"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -278,12 +482,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types.",
+            "homepage": null,
             "id": 164306266,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-09T17:41:46Z",
+            "open_issues": 4,
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "alert",
+              "blockquote",
+              "callout",
+              "docsify",
+              "docsify-plugin",
+              "hint"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -294,12 +510,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "↔️ Pagination for docsify",
+            "homepage": null,
             "id": 113866683,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-10T02:07:02Z",
+            "open_issues": 5,
             "owner": "imyelo",
             "repo": "docsify-pagination",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "docsify",
+              "navigation",
+              "pagination",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -310,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin that copies Markdown code block to your clipboard",
+            "homepage": null,
             "id": 105060727,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-25T07:19:34Z",
+            "open_issues": 4,
             "owner": "jperasmus",
             "repo": "docsify-copy-code",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -326,12 +557,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":symbols:  KaTeX support for docsify",
+            "homepage": "https://upupming.site/docsify-katex/docs",
             "id": 153437294,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T19:36:25Z",
+            "open_issues": 6,
             "owner": "upupming",
             "repo": "docsify-katex",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "demo",
+              "docsify",
+              "docsify-katex",
+              "katex",
+              "katex-support",
+              "mathjax"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -342,12 +585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for building pdf based on your docsify project",
+            "homepage": null,
             "id": 165640167,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-16T21:14:00Z",
+            "open_issues": 26,
             "owner": "meff34",
             "repo": "docsify-to-pdf-converter",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -358,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to render mermaid diagrams in docsify",
+            "homepage": null,
             "id": 260613969,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-11-27T16:38:57Z",
+            "open_issues": 6,
             "owner": "Leward",
             "repo": "mermaid-docsify",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -374,12 +627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 101969535,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-02T15:57:08Z",
+            "open_issues": 6,
             "owner": "njleonzhang",
             "repo": "docsify-edit-on-github",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -390,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify.js plugin for rendering a slate alike right example panel straight from markdown",
+            "homepage": null,
             "id": 198679487,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T02:03:50Z",
+            "open_issues": 13,
             "owner": "VagnerDomingues",
             "repo": "docsify-example-panels",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -406,12 +669,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PlantUML plugin for docsify",
+            "homepage": null,
             "id": 100380340,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-10T02:08:20Z",
+            "open_issues": 8,
             "owner": "imyelo",
             "repo": "docsify-plantuml",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "docsify",
+              "plantuml"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -422,12 +693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple plugin for embedding PDF in Docsify.",
+            "homepage": null,
             "id": 156131466,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-02T01:14:39Z",
+            "open_issues": 4,
             "owner": "lazypanda10117",
             "repo": "docsify-pdf-embed",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -438,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a docsify plugin to render changelog from given path",
+            "homepage": "https://docsify-plugin.now.sh/#/",
             "id": 239800619,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-12-10T18:14:13Z",
+            "open_issues": 48,
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -454,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a docsify plugin to render changelog from given path",
+            "homepage": "https://docsify-plugin.now.sh/#/",
             "id": 239800619,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-12-10T18:14:13Z",
+            "open_issues": 48,
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -470,12 +756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a docsify plugin to render changelog from given path",
+            "homepage": "https://docsify-plugin.now.sh/#/",
             "id": 239800619,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-12-10T18:14:13Z",
+            "open_issues": 48,
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -486,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "docsify-toc",
+            "homepage": null,
             "id": 217138584,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-11T22:11:55Z",
+            "open_issues": 5,
             "owner": "mrpotatoes",
             "repo": "docsify-toc",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -502,12 +798,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify.js plugin for typesetting LaTeX with display engines from markdown.",
+            "homepage": "https://scruel.github.io/docsify-latex",
             "id": 538294814,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-11T02:14:56Z",
+            "open_issues": 4,
             "owner": "scruel",
             "repo": "docsify-latex",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "docsify",
+              "docsify-latex",
+              "katex",
+              "latex",
+              "math",
+              "mathjax"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -518,12 +826,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add update time for each of your docsify markdown",
+            "homepage": null,
             "id": 444694875,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-17T01:33:52Z",
+            "open_issues": 0,
             "owner": "pfeak",
             "repo": "docsify-updated",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "docsify",
+              "javascript",
+              "time",
+              "updated"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -534,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remote markdown plugin of docsify",
+            "homepage": null,
             "id": 187494910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-31T16:58:10Z",
+            "open_issues": 4,
             "owner": "JerryC8080",
             "repo": "docsify-remote-markdown",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -550,12 +873,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify.js plugin for variably rendering content with select menus in markdown",
+            "homepage": "https://jthegedus.github.io/docsify-select/",
             "id": 240676836,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-18T13:39:41Z",
+            "open_issues": 13,
             "owner": "jthegedus",
             "repo": "docsify-select",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "docs",
+              "docsify",
+              "docsify-plugin",
+              "documentation",
+              "select",
+              "select-menu"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -566,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "write Vue demo in docsify with instant preview and jsfiddle integration",
+            "homepage": "https://njleonzhang.github.io/docsify-demo-box-vue/.",
             "id": 96850640,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T04:11:03Z",
+            "open_issues": 27,
             "owner": "njleonzhang",
             "repo": "docsify-demo-box-vue",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -582,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin for creating slideshow-like pages.",
+            "homepage": "https://shawntabrizi.github.io/docsify-slides",
             "id": 237853655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T18:13:23Z",
+            "open_issues": 5,
             "owner": "shawntabrizi",
             "repo": "docsify-slides",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -598,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FontAwesome plugin for Docsify",
+            "homepage": null,
             "id": 227303566,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-08T05:53:24Z",
+            "open_issues": 1,
             "owner": "erickjx",
             "repo": "docsify-fontawesome",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -614,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "write React jsx demo in docsify with instant preview and jsfiddle integration",
+            "homepage": "https://njleonzhang.github.io/docsify-demo-box-react/#/",
             "id": 102340401,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-28T08:36:07Z",
+            "open_issues": 3,
             "owner": "njleonzhang",
             "repo": "docsify-demo-box-react",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -630,12 +985,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Docsify plugin enabling zoom in mermaid diagrams",
+            "homepage": "https://corentinleberre.github.io/docsify-mermaid-zoom/",
             "id": 446825448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-30T20:59:11Z",
+            "open_issues": 3,
             "owner": "corentinleberre",
             "repo": "docsify-mermaid-zoom",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "d3js",
+              "docsify",
+              "docsify-plugin",
+              "mermaid",
+              "mermaid-diagrams",
+              "zoom"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -646,12 +1013,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin for generate chat panel from markdown",
+            "homepage": null,
             "id": 489702280,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-16T11:15:59Z",
+            "open_issues": 4,
             "owner": "xueelf",
             "repo": "docsify-chat",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "chat",
+              "docsify",
+              "markdown",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -662,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a plugin to add word count for markdown files of docsify.",
+            "homepage": null,
             "id": 251239763,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-06T06:47:04Z",
+            "open_issues": 2,
             "owner": "827652549",
             "repo": "docsify-count",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -678,12 +1060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":seedling: A docsify plugin for corner configuration enhancement.",
+            "homepage": null,
             "id": 286070275,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-03T01:18:21Z",
+            "open_issues": 2,
             "owner": "Koooooo-7",
             "repo": "docsify-corner",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -694,12 +1081,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin to render graph like plantuml, mermaid, ..etc",
+            "homepage": "https://zuisong.github.io/docsify-kroki/",
             "id": 346648148,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-19T00:52:34Z",
+            "open_issues": 2,
             "owner": "zuisong",
             "repo": "docsify-kroki",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "kroki",
+              "markdown",
+              "text-visualization",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -710,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 621494253,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-15T03:31:54Z",
+            "open_issues": 3,
             "owner": "dolanmiu",
             "repo": "docsify-terminal-block",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -726,12 +1130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docsify Footer Enhacement Plugin",
+            "homepage": null,
             "id": 227300934,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-08T05:53:44Z",
+            "open_issues": 0,
             "owner": "erickjx",
             "repo": "docsify-footer-enh",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -742,12 +1151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗯️A fast, simple & powerful comment system for docsify. ",
+            "homepage": null,
             "id": 247858315,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-06T12:06:50Z",
+            "open_issues": 0,
             "owner": "daidi",
             "repo": "docsify-valine",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -758,12 +1172,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An auto heading numbering plugin for docsify.js",
+            "homepage": "https://header.docsify.markbattistella.com/",
             "id": 287526756,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-09T05:28:30Z",
+            "open_issues": 0,
             "owner": "markbattistella",
             "repo": "docsify-auto-headers",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "docsify",
+              "docsify-js",
+              "docsify-plugin",
+              "documentation",
+              "documentation-tool",
+              "hacktoberfest",
+              "headers"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -774,12 +1201,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progress plugin for docsify",
+            "homepage": null,
             "id": 260467476,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-07-21T14:28:43Z",
+            "open_issues": 1,
             "owner": "HerbertHe",
             "repo": "docsify-progress",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "docsify",
+              "docsify-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -790,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a docsify plugin that can convert drawio xml Data to a picture in your docs.",
+            "homepage": null,
             "id": 380459012,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-26T09:07:11Z",
+            "open_issues": 5,
             "owner": "KonghaYao",
             "repo": "docsify-drawio",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -806,12 +1246,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform your markdown into graphs and charts for docsify",
+            "homepage": "https://charty.docsify.markbattistella.com/",
             "id": 343328590,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-22T07:53:34Z",
+            "open_issues": 0,
             "owner": "markbattistella",
             "repo": "docsify-charty",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "chart",
+              "docsify",
+              "docsify-js",
+              "docsify-plugin",
+              "graph"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -822,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗯️ Commento plugin for docsify",
+            "homepage": null,
             "id": 183486934,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-05T11:42:37Z",
+            "open_issues": 0,
             "owner": "ndom91",
             "repo": "docsify-commento",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -838,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to make you easy to join up carbon",
+            "homepage": null,
             "id": 277933659,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-10T03:34:42Z",
+            "open_issues": 6,
             "owner": "waruqi",
             "repo": "docsify-plugin-carbon",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -854,12 +1315,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add some info at the bottom of your sidebar. Link to your personal website, a Privacy Policy, Terms of Service",
+            "homepage": "https://footer.docsify.markbattistella.com/",
             "id": 288163901,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-09T05:26:23Z",
+            "open_issues": 0,
             "owner": "markbattistella",
             "repo": "docsify-sidebar-footer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cookie",
+              "docsify",
+              "docsify-plugin",
+              "footer",
+              "plugin",
+              "privacy",
+              "tos"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -870,12 +1344,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EthicalAds support for Docsify",
+            "homepage": null,
             "id": 301216809,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-26T17:25:13Z",
+            "open_issues": 0,
             "owner": "davidcralph",
             "repo": "docsify-ethicalads",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "docsify",
+              "docsify-js",
+              "docsify-plugin",
+              "ethicalads"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -886,12 +1370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://zpengg.github.io/docsify-wikilink/#/",
+            "homepage": null,
             "id": 316151945,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-02-07T03:37:36Z",
+            "open_issues": 3,
             "owner": "zpengg",
             "repo": "docsify-wikilink",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -902,12 +1391,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify之备案插件 docsify plugin for Chinese Beian",
+            "homepage": null,
             "id": 259504592,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-07-20T16:36:58Z",
+            "open_issues": 0,
             "owner": "HerbertHe",
             "repo": "docsify-beian",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "chinese-beian",
+              "docsify",
+              "docsify-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -918,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Plugin for Docsify that adds a preview of your component",
+            "homepage": null,
             "id": 399655474,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-22T19:21:39Z",
+            "open_issues": 2,
             "owner": "JacobWeinbren",
             "repo": "docsify-demo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -934,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.",
+            "homepage": "https://docsify-dark-switcher.vercel.app",
             "id": 802735730,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-13T01:55:56Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-dark-switcher",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -950,12 +1458,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple comment plugin for docsify.",
+            "homepage": null,
             "id": 390793807,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-21T08:11:50Z",
+            "open_issues": 0,
             "owner": "nopdan",
             "repo": "docsify-waline",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "docsify",
+              "plugin",
+              "valine",
+              "waline"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -966,12 +1484,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a plugin to render pseudocode in docsify. ",
+            "homepage": "https://h-hg.github.io/docsify-pseudocode",
             "id": 325932784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-27T02:08:32Z",
+            "open_issues": 0,
             "owner": "h-hg",
             "repo": "docsify-pseudocode",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "docsify-pseudocode",
+              "javascript",
+              "pseudocode"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -982,12 +1511,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":electric_plug: Docsify plugin customize page title",
+            "homepage": null,
             "id": 378671117,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T11:54:28Z",
+            "open_issues": 0,
             "owner": "sujaykumarh",
             "repo": "docsify-plugin-title",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "docsify-plugin-title",
+              "plugin",
+              "sujaykumarh",
+              "sujaykumarh-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -998,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin that allows you to display multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar.",
+            "homepage": null,
             "id": 635223732,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-19T13:17:59Z",
+            "open_issues": 3,
             "owner": "UliGall",
             "repo": "docsify-versioned-plugin",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1014,12 +1560,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docsify plugin to parse PlantUML content",
+            "homepage": "https://www.npmjs.com/package/docsify-puml",
             "id": 307838381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-12T21:21:44Z",
+            "open_issues": 12,
             "owner": "indieatom",
             "repo": "docsify-puml",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "docs",
+              "docsify",
+              "plantuml",
+              "plantuml-parser",
+              "themable"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1030,12 +1587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Icons plugin for Docsify",
+            "homepage": null,
             "id": 298056301,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-30T18:01:11Z",
+            "open_issues": 1,
             "owner": "erickjx",
             "repo": "docsify-material-icons",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1046,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 314664030,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-04T23:20:19Z",
+            "open_issues": 1,
             "owner": "drhoffmann",
             "repo": "docsify-swimlanes-io",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1062,12 +1629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a auth pulign for docsify",
+            "homepage": null,
             "id": 825219749,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-08T15:47:13Z",
+            "open_issues": 2,
             "owner": "docsify-note",
             "repo": "docsify-auth",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1078,12 +1650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A live preview of your xmind fiile 在docsify的md文档中能查看xmind文档",
+            "homepage": null,
             "id": 735082486,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-23T17:47:27Z",
+            "open_issues": 0,
             "owner": "AntHubTC",
             "repo": "docsify-xmind",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1094,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 320840232,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-12-12T14:16:05Z",
+            "open_issues": 0,
             "owner": "puria",
             "repo": "docsify-link-preview",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1110,12 +1692,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":electric_plug: Docsify plugin to add custom footer to pages",
+            "homepage": null,
             "id": 383224086,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-31T11:19:38Z",
+            "open_issues": 3,
             "owner": "sujaykumarh",
             "repo": "docsify-plugin-footer",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "docsify-plugin-footer",
+              "plugin",
+              "sujaykumarh",
+              "sujaykumarh-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1126,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accordion plugin for docsify",
+            "homepage": null,
             "id": 415845234,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-26T10:46:41Z",
+            "open_issues": 1,
             "owner": "isaozler",
             "repo": "docsify-accordion",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1142,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify plugin to show your ads",
+            "homepage": null,
             "id": 606663470,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-26T15:14:07Z",
+            "open_issues": 0,
             "owner": "docsify-note",
             "repo": "docsify-ads",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1158,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for building docx based on your docsify project",
+            "homepage": null,
             "id": 632336178,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-25T06:42:54Z",
+            "open_issues": 0,
             "owner": "simonguo",
             "repo": "docsify-docx-converter",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1174,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify 动画终端插件",
+            "homepage": null,
             "id": 643736482,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-08-08T20:26:57Z",
+            "open_issues": 2,
             "owner": "sxin0",
             "repo": "docsify-termynal",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1190,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 734222018,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-19T07:14:35Z",
+            "open_issues": 0,
             "owner": "Robert-Du0001",
             "repo": "docsify-footnote",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1206,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A new always on top customizable and pretty navigation bar for your docs.",
+            "homepage": "https://docsify-navbar-fixed.vercel.app",
             "id": 790649262,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-18T07:39:01Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-navbar-fixed",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1222,12 +1846,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Glossary for Docsify that replaces occurrences of words in text with links to the glossary definitions.",
+            "homepage": null,
             "id": 565383831,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-09T11:11:00Z",
+            "open_issues": 0,
             "owner": "stijn-dejongh",
             "repo": "docsify-glossary",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "docsify-plugin",
+              "documentation",
+              "glossary",
+              "javascript",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1238,12 +1873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WebGL GLTF 3D explorer for docsify to present 3D object in live in the documentation",
+            "homepage": null,
             "id": 284264657,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T20:10:37Z",
+            "open_issues": 0,
             "owner": "X-Ryl669",
             "repo": "docsify-gltfexplorer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1254,12 +1894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify",
+            "homepage": null,
             "id": 668554202,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-20T07:35:21Z",
+            "open_issues": 1,
             "owner": "rcqed",
             "repo": "docsify-markmap.js",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1270,12 +1915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "在文章中插入bilibili视频，列表的形式iframe嵌入",
+            "homepage": null,
             "id": 751901847,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-02T16:22:06Z",
+            "open_issues": 2,
             "owner": "denganliang",
             "repo": "docsify-bilibili",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1286,12 +1936,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin for automatically adding spaces.",
+            "homepage": null,
             "id": 268939171,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-22T05:19:05Z",
+            "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-pangu",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "docsify",
+              "docsify-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1302,12 +1960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369705006,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-19T20:13:28Z",
+            "open_issues": 6,
             "owner": "atleastzero",
             "repo": "docsify-accordify",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1318,12 +1981,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a plugin to show image catpion in docsify.",
+            "homepage": "https://h-hg.github.io/docsify-image-caption/",
             "id": 482133248,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-07T07:13:55Z",
+            "open_issues": 2,
             "owner": "h-hg",
             "repo": "docsify-image-caption",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "caption",
+              "center",
+              "docsify",
+              "docsify-plugin",
+              "image",
+              "title"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1334,12 +2009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📋 Page-by-page history for Docsify",
+            "homepage": null,
             "id": 740504057,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-31T06:09:22Z",
+            "open_issues": 0,
             "owner": "simochee",
             "repo": "docsify-plugin-page-history",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1350,12 +2030,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple breadcrumb generator for docsify",
+            "homepage": "https://francarstens.github.io/docsify-breadcrumb/",
             "id": 834279648,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-18T13:29:45Z",
+            "open_issues": 2,
             "owner": "FranCarstens",
             "repo": "docsify-breadcrumb",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "docsify"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1366,12 +2053,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace syntax highlight with Shiki",
+            "homepage": "https://www.jsdelivr.com/package/npm/docsify-shiki",
             "id": 918643576,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-19T15:28:31Z",
+            "open_issues": 0,
             "owner": "simochee",
             "repo": "docsify-shiki",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "docsify",
+              "shiki"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1382,12 +2077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docsify Phaser plugin - run Phaser code inside a docsify MD",
+            "homepage": null,
             "id": 230499087,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-28T17:06:59Z",
+            "open_issues": 0,
             "owner": "luisalvesmartins",
             "repo": "docsifyPhaser",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1398,12 +2098,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个通过markdown扩展语法为docsify提供更加安全插入iframe的插件",
+            "homepage": "https://herberthe.github.io/docsify-codeblock-iframe/demo",
             "id": 336589195,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-02-07T15:56:04Z",
+            "open_issues": 0,
             "owner": "HerbertHe",
             "repo": "docsify-codeblock-iframe",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1414,12 +2123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify giscus plugin",
+            "homepage": null,
             "id": 598475841,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-03T15:16:09Z",
+            "open_issues": 0,
             "owner": "docsify-note",
             "repo": "docsify-giscus",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1430,12 +2144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sign-off Sheet for Docsify Documentation",
+            "homepage": null,
             "id": 615848002,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-15T01:04:02Z",
+            "open_issues": 0,
             "owner": "dolanmiu",
             "repo": "docsify-sign-off-sheet",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1446,12 +2165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify.js plugin to embed selective areas from another markdown file.",
+            "homepage": null,
             "id": 785316952,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-17T10:08:03Z",
+            "open_issues": 0,
             "owner": "FlippedCodes",
             "repo": "docsify-betterembed",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1462,12 +2186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Docsify plugin for interactive, persistent checkboxes in markdown documentation",
+            "homepage": "https://andreferra.github.io/docsify-plugin-interactive-checkboxes/",
             "id": 1110917784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-07T13:13:29Z",
+            "open_issues": 1,
             "owner": "andreferra",
             "repo": "docsify-plugin-interactive-checkboxes",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1478,12 +2207,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docsify rtl plugin",
+            "homepage": null,
             "id": 200829740,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-31T12:30:50Z",
+            "open_issues": 2,
             "owner": "ckoliber",
             "repo": "docsify-rtl",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bidi",
+              "docsify",
+              "plugin",
+              "rtl"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1494,12 +2233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "parse all emoji in style of twitter emoji for docsify",
+            "homepage": "http://taqini.space/2020/04/08/docsify-plugins",
             "id": 254119281,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-04-08T15:44:15Z",
+            "open_issues": 0,
             "owner": "TaQini",
             "repo": "docsify-twemoji",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1510,12 +2254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LiveRe comment system for docsify. ",
+            "homepage": "http://taqini.space/2020/04/08/docsify-plugins",
             "id": 254108477,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-04-08T16:54:55Z",
+            "open_issues": 0,
             "owner": "TaQini",
             "repo": "docsify-livere",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1526,12 +2275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docsify plugin to render customized Ko-fi buttons from markdown",
+            "homepage": "https://fcannizzaro.github.io/docsify-ko-fi",
             "id": 441474539,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-24T14:02:20Z",
+            "open_issues": 1,
             "owner": "fcannizzaro",
             "repo": "docsify-ko-fi",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1542,12 +2296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a docsify plugin for baidu-tj",
+            "homepage": null,
             "id": 598412829,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-07T04:37:00Z",
+            "open_issues": 0,
             "owner": "docsify-note",
             "repo": "docsify-baidu-tj",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1558,12 +2317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to render @antv/infographic diagrams in docsify",
+            "homepage": null,
             "id": 1139561081,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-22T09:18:38Z",
+            "open_issues": 0,
             "owner": "bulexu",
             "repo": "docsify-infographic",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1574,12 +2338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin to showcase frontend code and let client interact with the code.",
+            "homepage": null,
             "id": 594477262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-18T11:32:04Z",
+            "open_issues": 3,
             "owner": "kossidts",
             "repo": "docsify-live-demo",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1590,12 +2359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify gitalk plugin",
+            "homepage": null,
             "id": 598506156,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-07T09:18:41Z",
+            "open_issues": 3,
             "owner": "docsify-note",
             "repo": "docsify-gitalk",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1606,12 +2380,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify.js plugin for meting-api. ",
+            "homepage": "https://lisuke.github.io/docsify-plugin-meting-api/",
             "id": 606473152,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-27T12:19:59Z",
+            "open_issues": 0,
             "owner": "lisuke",
             "repo": "docsify-plugin-meting-api",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "docsify",
+              "docsify-plugin",
+              "meting",
+              "meting-api"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1622,12 +2406,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A new responsive vite-like coverpage for your docs.",
+            "homepage": "https://docsify-vite-coverpage.vercel.app",
             "id": 795422385,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-18T07:41:31Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-vite-coverpage",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1638,12 +2427,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Docsify that creates a dashboard from a JSON file.",
+            "homepage": "https://erectbranch.github.io/#/docsify-dashboard/demo",
             "id": 967543093,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-05T04:26:45Z",
+            "open_issues": 0,
             "owner": "erectbranch",
             "repo": "docsify-dashboard",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "dashboard",
+              "docs",
+              "docsify",
+              "javascript",
+              "markdown",
+              "md",
+              "plugin",
+              "tags"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1654,12 +2457,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to render web sequence diagrams under docsify -- Just like that!",
+            "homepage": "https://aajiwani.github.io/websequencediagrams-docsify",
             "id": 297196108,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-10T09:41:32Z",
+            "open_issues": 1,
             "owner": "aajiwani",
             "repo": "websequencediagrams-docsify",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "docsify",
+              "websequencediagrams",
+              "websequencediagrams-docsify"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1670,12 +2482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "docsify busuanzi plugin for show visit",
+            "homepage": null,
             "id": 598898906,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-08T03:18:46Z",
+            "open_issues": 0,
             "owner": "docsify-note",
             "repo": "docsify-busuanzi",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1686,12 +2503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin that hide code.",
+            "homepage": null,
             "id": 680040345,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-18T14:23:57Z",
+            "open_issues": 1,
             "owner": "jl15988",
             "repo": "docsify-hide-code",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1702,12 +2524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 909593648,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-31T08:35:47Z",
+            "open_issues": 1,
             "owner": "SDU-Little-River",
             "repo": "docsify-fontsize",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1718,12 +2545,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A docsify plugin to create a slider from images",
+            "homepage": "https://erectbranch.github.io/#/docsify-image-slider/demo",
             "id": 961996735,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-03T13:06:08Z",
+            "open_issues": 0,
             "owner": "erectbranch",
             "repo": "docsify-image-slider",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "docs",
+              "docsify",
+              "image-slider",
+              "javascript",
+              "markdown",
+              "md",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1734,12 +2574,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Docsify plugin that can embed Draw.io diagrams into your documentation.",
+            "homepage": "https://fenriskiba.github.io/drawcsify/",
             "id": 844614820,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-08T01:37:07Z",
+            "open_issues": 5,
             "owner": "fenriskiba",
             "repo": "drawcsify",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "css",
+              "docsify",
+              "docsify-plugin",
+              "drawio",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1750,12 +2601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docsify plugin for copying and exporting page markdown, LLM integrations, and more.",
+            "homepage": null,
             "id": 1079476248,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-22T15:59:50Z",
+            "open_issues": 1,
             "owner": "calycode",
             "repo": "docsify-page-actions-menu",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1766,12 +2622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docsify Plugin to visually display small Color-Swatches next to Hexcodes, RGB- or HSL-Colors",
+            "homepage": null,
             "id": 1124085280,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-28T12:46:16Z",
+            "open_issues": 0,
             "owner": "win-tm",
             "repo": "docsify-display-colors",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1782,12 +2643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个可以实现代码执行可视化的docsify插件",
+            "homepage": null,
             "id": 1203661822,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-09T09:43:24Z",
+            "open_issues": 0,
             "owner": "sherlockmen",
             "repo": "docsify-pytutor",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1798,12 +2664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "use docsify as markdown engine, get markdown link from queryparam and render",
+            "homepage": null,
             "id": 436625602,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-09T17:34:37Z",
+            "open_issues": 0,
             "owner": "cvooc",
             "repo": "docsify-to-queryparam-markdown-engine",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1814,12 +2685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a valine plugin for docsify",
+            "homepage": null,
             "id": 622400535,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-02T02:24:02Z",
+            "open_issues": 0,
             "owner": "docsify-note",
             "repo": "docsify-mango-valine",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1830,12 +2706,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a plugin to enhance gitalk for docsify.",
+            "homepage": "https://pikapikapikaori.github.io/docsify-gitalk-with-footer/",
             "id": 634459020,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-04T21:25:55Z",
+            "open_issues": 6,
             "owner": "pikapikapikaori",
             "repo": "docsify-gitalk-with-footer",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "docsify",
+              "docsify-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1846,12 +2730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docsify plugin for rendering content blocks that resemble X posts.",
+            "homepage": null,
             "id": 968053250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-17T12:52:12Z",
+            "open_issues": 0,
             "owner": "kevinhuang001",
             "repo": "docsify-xpost",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1862,12 +2751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, clean Docsify plugin to embed https://lucide.dev/ directly in your Markdown files using a JSX-like syntax.",
+            "homepage": null,
             "id": 1123156872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-19T08:42:48Z",
+            "open_issues": 0,
             "owner": "bhaireshm",
             "repo": "docsify-lucide-icons",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         }
@@ -1884,12 +2778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dark and Light theme with switch for your docsify site",
+            "homepage": "https://docsify-darklight-theme.boopathikumar.me",
             "id": 250619921,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-06-15T21:38:28Z",
+            "open_issues": 26,
             "owner": "boopathikumar018",
             "repo": "docsify-darklight-theme",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "customizable",
+              "docsify-darklight-theme",
+              "docsify-site",
+              "docsify-themeable",
+              "theme-switcher"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1900,12 +2805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
+            "homepage": "https://docsify-theme-github.vercel.app",
             "id": 794490781,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-07-13T01:56:04Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-theme-github",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1916,12 +2826,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark theme for Docsify",
+            "homepage": "https://sushantrahate.github.io/docsify-darkly-theme/#/",
             "id": 239826761,
             "language": "CSS",
+            "license": "Unlicense",
             "last_commit": "2026-07-17T14:58:24Z",
+            "open_issues": 0,
             "owner": "sushantrahate",
             "repo": "docsify-darkly-theme",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "css",
+              "dark-theme",
+              "docsify",
+              "docsify-plugin",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1932,12 +2853,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bring back the old Windows Classic theme in Docsify.",
+            "homepage": "https://docsify-theme-98.vercel.app",
             "id": 809662154,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-18T07:40:17Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-theme-98",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1948,12 +2874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://mellow-crepe-abaf27.netlify.app/docs/#/",
             "id": 730114164,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-12-13T11:42:11Z",
+            "open_issues": 0,
             "owner": "A5yncX",
             "repo": "docsify-theme-darcula",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1964,12 +2895,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bring back the old Aero theme in Docsify.",
+            "homepage": "https://docsify-theme-vista.vercel.app",
             "id": 809304915,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-18T07:42:59Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-theme-vista",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1980,12 +2916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 932379319,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-12-04T17:09:52Z",
+            "open_issues": 0,
             "owner": "FlippedCodes",
             "repo": "docsify-simple-themeable",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1996,12 +2937,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bring back the old Luna XP theme in Docsify.",
+            "homepage": "https://docsify-theme-xp.vercel.app",
             "id": 809657918,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-18T07:43:11Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "docsify-theme-xp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         }
@@ -2018,12 +2964,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+            "homepage": null,
             "id": 311525798,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T10:13:10Z",
+            "open_issues": 115,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96488
+            "stars": 96488,
+            "topics": [
+              "css",
+              "curriculum",
+              "education",
+              "html",
+              "javascript",
+              "learning",
+              "microsoft-for-beginners",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2034,12 +2994,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "homepage": null,
             "id": 344190478,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:11:48Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67550
+            "stars": 67564,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "gan",
+              "machine-learning",
+              "microsoft-for-beginners",
+              "nlp",
+              "rnn"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         }
@@ -2056,12 +3032,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💖 A curated list of awesome things related to docsify",
+            "homepage": "https://docsify.js.org/#/awesome",
             "id": 118699373,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T11:25:10Z",
+            "open_issues": 4,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
-            "stars": 2646
+            "stars": 2646,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "docsify",
+              "docsify-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2074,12 +3060,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💖 A curated list of awesome things related to docsify",
+                "homepage": "https://docsify.js.org/#/awesome",
                 "id": 118699373,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-18T11:25:10Z",
+                "open_issues": 4,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
-                "stars": 2646
+                "stars": 2646,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "docsify",
+                  "docsify-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:57:37.686Z"
             }
@@ -2093,15 +3089,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:57:37.686Z",
+    "last_updated": "2026-08-29T04:21:33.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💖 A curated list of awesome things related to docsify",
+      "homepage": "https://docsify.js.org/#/awesome",
       "id": 118699373,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-05-18T11:25:10Z",
+      "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2646
+      "stars": 2646,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "docsify",
+        "docsify-plugin"
+      ]
     },
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
     "enhanced_repository": "enhansome/enhansome-docsify",
