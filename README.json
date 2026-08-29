@@ -16,7 +16,8 @@
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
             "stars": 1015
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "vudash",
             "repo": "vudash",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "julien-boudry",
             "repo": "Condorcet",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "MichaelCurrin",
             "repo": "docsify-js-tutorial",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "MichaelCurrin",
             "repo": "unicron",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "MichaelCurrin",
             "repo": "python-twitter-guide",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "wavejumper",
             "repo": "codoxify",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         }
       ],
       "title": "Showcase"
@@ -127,7 +134,8 @@
             "owner": "kernoeb",
             "repo": "docker-docsify-pdf",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "bharatdwarkani",
             "repo": "docsify-dotnet-core",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "alertbox",
             "repo": "try-docsify",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "corentinleberre",
             "repo": "create-docsify-plugin",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "MonkeyAndres",
             "repo": "docsify-notebooks",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "sujaykumarh",
             "repo": "docsify-docker",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "tenelabs",
             "repo": "docsify-sitemap",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "sy-records",
             "repo": "docsify-nightly",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         }
       ],
       "title": "Community Resources"
@@ -253,7 +268,8 @@
             "owner": "iPeng6",
             "repo": "docsify-sidebar-collapse",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "imyelo",
             "repo": "docsify-pagination",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "jperasmus",
             "repo": "docsify-copy-code",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "upupming",
             "repo": "docsify-katex",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "meff34",
             "repo": "docsify-to-pdf-converter",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "Leward",
             "repo": "mermaid-docsify",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "njleonzhang",
             "repo": "docsify-edit-on-github",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "VagnerDomingues",
             "repo": "docsify-example-panels",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "imyelo",
             "repo": "docsify-plantuml",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "lazypanda10117",
             "repo": "docsify-pdf-embed",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "Plugin-contrib",
             "repo": "docsify-plugin",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "mrpotatoes",
             "repo": "docsify-toc",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "scruel",
             "repo": "docsify-latex",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "pfeak",
             "repo": "docsify-updated",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "JerryC8080",
             "repo": "docsify-remote-markdown",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "jthegedus",
             "repo": "docsify-select",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "njleonzhang",
             "repo": "docsify-demo-box-vue",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "shawntabrizi",
             "repo": "docsify-slides",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "erickjx",
             "repo": "docsify-fontawesome",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "njleonzhang",
             "repo": "docsify-demo-box-react",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "corentinleberre",
             "repo": "docsify-mermaid-zoom",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "xueelf",
             "repo": "docsify-chat",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "827652549",
             "repo": "docsify-count",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "Koooooo-7",
             "repo": "docsify-corner",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "zuisong",
             "repo": "docsify-kroki",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "dolanmiu",
             "repo": "docsify-terminal-block",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "erickjx",
             "repo": "docsify-footer-enh",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "daidi",
             "repo": "docsify-valine",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "markbattistella",
             "repo": "docsify-auto-headers",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "HerbertHe",
             "repo": "docsify-progress",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "KonghaYao",
             "repo": "docsify-drawio",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "markbattistella",
             "repo": "docsify-charty",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "ndom91",
             "repo": "docsify-commento",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "waruqi",
             "repo": "docsify-plugin-carbon",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "markbattistella",
             "repo": "docsify-sidebar-footer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "davidcralph",
             "repo": "docsify-ethicalads",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "zpengg",
             "repo": "docsify-wikilink",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -853,7 +908,8 @@
             "owner": "HerbertHe",
             "repo": "docsify-beian",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -868,7 +924,8 @@
             "owner": "JacobWeinbren",
             "repo": "docsify-demo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -883,7 +940,8 @@
             "owner": "w3teal",
             "repo": "docsify-dark-switcher",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "nopdan",
             "repo": "docsify-waline",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "h-hg",
             "repo": "docsify-pseudocode",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "sujaykumarh",
             "repo": "docsify-plugin-title",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "UliGall",
             "repo": "docsify-versioned-plugin",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "indieatom",
             "repo": "docsify-puml",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "erickjx",
             "repo": "docsify-material-icons",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "drhoffmann",
             "repo": "docsify-swimlanes-io",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1068,8 @@
             "owner": "docsify-note",
             "repo": "docsify-auth",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "AntHubTC",
             "repo": "docsify-xmind",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "puria",
             "repo": "docsify-link-preview",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "sujaykumarh",
             "repo": "docsify-plugin-footer",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1132,8 @@
             "owner": "isaozler",
             "repo": "docsify-accordion",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1148,8 @@
             "owner": "docsify-note",
             "repo": "docsify-ads",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "simonguo",
             "repo": "docsify-docx-converter",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "sxin0",
             "repo": "docsify-termynal",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "Robert-Du0001",
             "repo": "docsify-footnote",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1212,8 @@
             "owner": "w3teal",
             "repo": "docsify-navbar-fixed",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1228,8 @@
             "owner": "stijn-dejongh",
             "repo": "docsify-glossary",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1244,8 @@
             "owner": "X-Ryl669",
             "repo": "docsify-gltfexplorer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1260,8 @@
             "owner": "rcqed",
             "repo": "docsify-markmap.js",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1276,8 @@
             "owner": "denganliang",
             "repo": "docsify-bilibili",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1292,8 @@
             "owner": "sy-records",
             "repo": "docsify-pangu",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1308,8 @@
             "owner": "atleastzero",
             "repo": "docsify-accordify",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1324,8 @@
             "owner": "h-hg",
             "repo": "docsify-image-caption",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1340,8 @@
             "owner": "simochee",
             "repo": "docsify-plugin-page-history",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1356,8 @@
             "owner": "FranCarstens",
             "repo": "docsify-breadcrumb",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1372,8 @@
             "owner": "simochee",
             "repo": "docsify-shiki",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1388,8 @@
             "owner": "luisalvesmartins",
             "repo": "docsifyPhaser",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1404,8 @@
             "owner": "HerbertHe",
             "repo": "docsify-codeblock-iframe",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1420,8 @@
             "owner": "docsify-note",
             "repo": "docsify-giscus",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1436,8 @@
             "owner": "dolanmiu",
             "repo": "docsify-sign-off-sheet",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1452,8 @@
             "owner": "FlippedCodes",
             "repo": "docsify-betterembed",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1468,8 @@
             "owner": "andreferra",
             "repo": "docsify-plugin-interactive-checkboxes",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1484,8 @@
             "owner": "ckoliber",
             "repo": "docsify-rtl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1500,8 @@
             "owner": "TaQini",
             "repo": "docsify-twemoji",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1516,8 @@
             "owner": "TaQini",
             "repo": "docsify-livere",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1532,8 @@
             "owner": "fcannizzaro",
             "repo": "docsify-ko-fi",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1548,8 @@
             "owner": "docsify-note",
             "repo": "docsify-baidu-tj",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1564,8 @@
             "owner": "bulexu",
             "repo": "docsify-infographic",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1580,8 @@
             "owner": "kossidts",
             "repo": "docsify-live-demo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1596,8 @@
             "owner": "docsify-note",
             "repo": "docsify-gitalk",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1612,8 @@
             "owner": "lisuke",
             "repo": "docsify-plugin-meting-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1628,8 @@
             "owner": "w3teal",
             "repo": "docsify-vite-coverpage",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1543,7 +1644,8 @@
             "owner": "erectbranch",
             "repo": "docsify-dashboard",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1558,7 +1660,8 @@
             "owner": "aajiwani",
             "repo": "websequencediagrams-docsify",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1573,7 +1676,8 @@
             "owner": "docsify-note",
             "repo": "docsify-busuanzi",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1692,8 @@
             "owner": "jl15988",
             "repo": "docsify-hide-code",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1708,8 @@
             "owner": "SDU-Little-River",
             "repo": "docsify-fontsize",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1724,8 @@
             "owner": "erectbranch",
             "repo": "docsify-image-slider",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1633,7 +1740,8 @@
             "owner": "fenriskiba",
             "repo": "drawcsify",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1648,7 +1756,8 @@
             "owner": "calycode",
             "repo": "docsify-page-actions-menu",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1663,7 +1772,8 @@
             "owner": "win-tm",
             "repo": "docsify-display-colors",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1678,7 +1788,8 @@
             "owner": "sherlockmen",
             "repo": "docsify-pytutor",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1804,8 @@
             "owner": "cvooc",
             "repo": "docsify-to-queryparam-markdown-engine",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1820,8 @@
             "owner": "docsify-note",
             "repo": "docsify-mango-valine",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1836,8 @@
             "owner": "pikapikapikaori",
             "repo": "docsify-gitalk-with-footer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1852,8 @@
             "owner": "kevinhuang001",
             "repo": "docsify-xpost",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1868,8 @@
             "owner": "bhaireshm",
             "repo": "docsify-lucide-icons",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         }
       ],
       "title": "Plugins"
@@ -1774,7 +1890,8 @@
             "owner": "boopathikumar018",
             "repo": "docsify-darklight-theme",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1906,8 @@
             "owner": "w3teal",
             "repo": "docsify-theme-github",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1922,8 @@
             "owner": "sushantrahate",
             "repo": "docsify-darkly-theme",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1938,8 @@
             "owner": "w3teal",
             "repo": "docsify-theme-98",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1954,8 @@
             "owner": "A5yncX",
             "repo": "docsify-theme-darcula",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1970,8 @@
             "owner": "w3teal",
             "repo": "docsify-theme-vista",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1986,8 @@
             "owner": "FlippedCodes",
             "repo": "docsify-simple-themeable",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1879,7 +2002,8 @@
             "owner": "w3teal",
             "repo": "docsify-theme-xp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         }
       ],
       "title": "Themes"
@@ -1899,8 +2023,9 @@
             "last_commit": "2026-08-05T10:13:10Z",
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96481
-          }
+            "stars": 96488
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "node_type": "item",
@@ -1914,8 +2039,9 @@
             "last_commit": "2026-07-21T11:11:48Z",
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 67389
-          }
+            "stars": 67550
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         }
       ],
       "title": "Enterprise Usage"
@@ -1935,8 +2061,9 @@
             "last_commit": "2026-05-18T11:25:10Z",
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
-            "stars": 2647
-          }
+            "stars": 2646
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
         },
         {
           "children": [
@@ -1952,8 +2079,9 @@
                 "last_commit": "2026-05-18T11:25:10Z",
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
-                "stars": 2647
-              }
+                "stars": 2646
+              },
+              "first_seen": "2026-08-29T01:57:37.686Z"
             }
           ],
           "description": null,
@@ -1965,7 +2093,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:23:50.028Z",
+    "last_updated": "2026-08-29T01:57:37.686Z",
     "original_repository_info": {
       "archived": false,
       "id": 118699373,
@@ -1973,7 +2101,7 @@
       "last_commit": "2026-05-18T11:25:10Z",
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2647
+      "stars": 2646
     },
     "original_repository_sha": "d9c4374634f5ec90112924c2bbcbbbefc6179dbd",
     "enhanced_repository": "enhansome/enhansome-docsify",
