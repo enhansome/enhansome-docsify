@@ -190,7 +190,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) ⭐ 51 | 🐛 48 | 🌐 CSS | 📅 2022-12-10 - Add a simple and sweet banner at the top in order to announce something.
 * [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) ⭐ 51 | 🐛 48 | 🌐 CSS | 📅 2022-12-10 - Add dark mode support in your docsify site.
 * [docsify-toc](https://github.com/mrpotatoes/docsify-toc) ⚠️ Archived - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
-* [docsify-latex](https://scruel.github.io/docsify-latex) - A docsify.js plugin for typesetting LaTeX with display engines from markdown, [@scruel](https://github.com/scruel/docsify-latex) ⭐ 37 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-11.
+* [docsify-latex](https://scruel.github.io/docsify-latex) - A docsify.js plugin for typesetting LaTeX with display engines from markdown, [@scruel](https://github.com/scruel/docsify-latex) ⭐ 38 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-11.
 * [docsify-updated](https://github.com/pfeak/docsify-updated) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-17 - Add update time for each of your docsify markdown.
 * [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) ⭐ 32 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-31 - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
 * [docsify-select](https://github.com/jthegedus/docsify-select) ⭐ 30 | 🐛 13 | 🌐 JavaScript | 📅 2023-02-18 - Variably render content with select menus in markdown.
@@ -303,8 +303,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,543 | 🐛 123 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,899 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,568 | 🐛 123 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 67,964 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-07-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -314,13 +314,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29!
+[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,648 | 🐛 4 | 📅 2026-08-29!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29
+[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,648 | 🐛 4 | 📅 2026-08-29
 
-[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,646 | 🐛 4 | 📅 2026-08-29
+[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,648 | 🐛 4 | 📅 2026-08-29
 
 <!-- Place multiple link references here to avoid lint errors -->
 
@@ -328,4 +328,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
