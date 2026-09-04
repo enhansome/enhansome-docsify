@@ -432,7 +432,7 @@
             "id": 326521262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T06:36:30Z",
+            "last_commit": "2026-09-04T08:16:06Z",
             "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
@@ -2973,7 +2973,7 @@
             "open_issues": 123,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96587,
+            "stars": 96608,
             "topics": [
               "css",
               "curriculum",
@@ -2999,11 +2999,11 @@
             "id": 344190478,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-07-21T11:11:48Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-04T17:34:23Z",
+            "open_issues": 7,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68028,
+            "stars": 68068,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3041,7 +3041,7 @@
             "open_issues": 4,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
-            "stars": 2649,
+            "stars": 2650,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3069,7 +3069,7 @@
                 "open_issues": 4,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
-                "stars": 2649,
+                "stars": 2650,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:32:17.877Z",
+    "last_updated": "2026-09-04T21:10:15.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3101,7 +3101,7 @@
       "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2649,
+      "stars": 2650,
       "topics": [
         "awesome",
         "awesome-list",
