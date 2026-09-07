@@ -487,8 +487,8 @@
             "id": 164306266,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T19:09:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-07T13:34:07Z",
+            "open_issues": 0,
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
             "stars": 143,
@@ -1251,7 +1251,7 @@
             "id": 343328590,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-22T07:53:34Z",
+            "last_commit": "2026-09-07T16:58:00Z",
             "open_issues": 0,
             "owner": "markbattistella",
             "repo": "docsify-charty",
@@ -2764,6 +2764,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-sigma",
+          "description": "Visualize a graph in your Docsify project using Sigma.js and Graphology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visualize a graph in your docsify project using Sigma.js and Graphology.",
+            "homepage": null,
+            "id": 1313882420,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-06T09:57:58Z",
+            "open_issues": 0,
+            "owner": "julienbusset",
+            "repo": "docsify-sigma",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-07T21:51:35.925Z"
         }
       ],
       "title": "Plugins"
@@ -2973,7 +2994,7 @@
             "open_issues": 125,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96627,
+            "stars": 96634,
             "topics": [
               "css",
               "curriculum",
@@ -3003,7 +3024,7 @@
             "open_issues": 7,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68155,
+            "stars": 68216,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3037,8 +3058,8 @@
             "id": 118699373,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T11:18:08Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-07T02:26:05Z",
+            "open_issues": 4,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
             "stars": 2650,
@@ -3065,8 +3086,8 @@
                 "id": 118699373,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T11:18:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-07T02:26:05Z",
+                "open_issues": 4,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
                 "stars": 2650,
@@ -3089,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:59:27.343Z",
+    "last_updated": "2026-09-07T21:51:35.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3097,8 +3118,8 @@
       "id": 118699373,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-29T11:18:08Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-07T02:26:05Z",
+      "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
       "stars": 2650,
@@ -3109,7 +3130,7 @@
         "docsify-plugin"
       ]
     },
-    "original_repository_sha": "0ce94d860cfcdc0ff3fed5e03a21987c70dc65e2",
+    "original_repository_sha": "b31bc7d5ff03916e53d3fafa86e3f82fdaf3b2a9",
     "enhanced_repository": "enhansome/enhansome-docsify",
     "enhanced_repository_description": null,
     "title": "Awesome Docsify with stars"
