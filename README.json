@@ -1878,7 +1878,7 @@
             "id": 284264657,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T07:26:48Z",
+            "last_commit": "2026-09-11T11:31:12Z",
             "open_issues": 0,
             "owner": "X-Ryl669",
             "repo": "docsify-gltfexplorer",
@@ -2994,7 +2994,7 @@
             "open_issues": 126,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96661,
+            "stars": 96668,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 7,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68349,
+            "stars": 68389,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:19:55.699Z",
+    "last_updated": "2026-09-11T21:29:35.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
