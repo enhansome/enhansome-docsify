@@ -304,8 +304,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,668 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 68,389 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-04 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,671 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-05 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 68,420 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-04 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -315,13 +315,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,649 | 🐛 5 | 📅 2026-09-07!
+[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,650 | 🐛 5 | 📅 2026-09-07!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,649 | 🐛 5 | 📅 2026-09-07
+[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,650 | 🐛 5 | 📅 2026-09-07
 
-[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,649 | 🐛 5 | 📅 2026-09-07
+[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,650 | 🐛 5 | 📅 2026-09-07
 
 <!-- Place multiple link references here to avoid lint errors -->
 
@@ -329,4 +329,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
