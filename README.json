@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-05T10:13:10Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96671,
+            "stars": 96677,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 7,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68420,
+            "stars": 68459,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:08:09.923Z",
+    "last_updated": "2026-09-13T21:13:23.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
