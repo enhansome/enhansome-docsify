@@ -2994,7 +2994,7 @@
             "open_issues": 131,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96690,
+            "stars": 96694,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68590,
+            "stars": 68641,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3059,7 +3059,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T02:26:05Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
             "stars": 2651,
@@ -3087,7 +3087,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T02:26:05Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
                 "stars": 2651,
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:49:59.824Z",
+    "last_updated": "2026-09-17T21:51:37.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3119,7 +3119,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-07T02:26:05Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
       "stars": 2651,
