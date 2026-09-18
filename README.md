@@ -251,8 +251,9 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-sign-off-sheet](https://github.com/dolanmiu/docsify-sign-off-sheet) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-15 - A Doscify plugin to add a review process to keep documentation up to date and relevant.
 * [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-17 - A docsify.js plugin to embed selective areas from another markdown file.
 * [docsify-interactive-checkboxes](https://github.com/andreferra/docsify-plugin-interactive-checkboxes) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-07 - Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.
+* [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,782 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,784 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
@@ -273,7 +274,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-pytutor](https://github.com/sherlockmen/docsify-pytutor) ⭐ 1 | 🐛 0 | 📅 2026-04-09 - A docsify plugin that can visualize code execution. ✨(一个可以实现代码执行可视化的docsify插件).[@sherlockmen](https://github.com/sherlockmen)
 * [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-09 - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染 query 参数中的 markdown 文件)
 * [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-02 - A docsify plugin for support valine comments, expose config item.
-* [docsify-gitalk-with-footer](https://github.com/pikapikapikaori/docsify-gitalk-with-footer) ⭐ 0 | 🐛 6 | 🌐 JavaScript | 📅 2023-05-04 - A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-xpost](https://github.com/kevinhuang001/docsify-xpost) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-17 - A docsify plugin for rendering content blocks that resemble X posts.
 * [docsify-lucide-icons](https://github.com/bhaireshm/docsify-lucide-icons) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-19 - A simple, clean Docsify plugin to embed Lucide icons directly in your Markdown files. [@bhaireshm](https://github.com/bhaireshm)
 * [docsify-sigma](https://github.com/julienbusset/docsify-sigma) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-06 - Visualize a graph in your Docsify project using [Sigma.js](https://www.sigmajs.org/) and [Graphology](https://graphology.github.io/).
@@ -304,8 +304,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,694 | 🐛 131 | 🌐 JavaScript | 📅 2026-09-14 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 68,641 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,701 | 🐛 131 | 🌐 JavaScript | 📅 2026-09-14 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 68,696 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -315,13 +315,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,651 | 🐛 6 | 📅 2026-09-07!
+[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md) ⭐ 2,651 | 🐛 5 | 📅 2026-09-18!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,651 | 🐛 6 | 📅 2026-09-07
+[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,651 | 🐛 5 | 📅 2026-09-18
 
-[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,651 | 🐛 6 | 📅 2026-09-07
+[<img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" />](https://github.com/docsifyjs/awesome-docsify/graphs/contributors) ⭐ 2,651 | 🐛 5 | 📅 2026-09-18
 
 <!-- Place multiple link references here to avoid lint errors -->
 
@@ -329,4 +329,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

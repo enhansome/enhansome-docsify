@@ -2202,6 +2202,30 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-simple-dark-mode",
+          "description": "A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify@5 themes. @pikapikapikaori",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is a plugin to add dark mode for docsify.",
+            "homepage": "https://pikapikapikaori.github.io/docsify-simple-dark-mode/",
+            "id": 634772504,
+            "language": "CSS",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-18T05:01:27Z",
+            "open_issues": 0,
+            "owner": "pikapikapikaori",
+            "repo": "docsify-simple-dark-mode",
+            "stars": 4,
+            "topics": [
+              "docsify",
+              "docsify-plugin"
+            ]
+          },
+          "first_seen": "2026-09-18T21:22:40.595Z"
+        },
+        {
+          "node_type": "item",
           "title": "docsify-rtl",
           "description": "Add rtl and bidi support to docsify @koliberr136a1.",
           "children": [],
@@ -2701,30 +2725,6 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-gitalk-with-footer",
-          "description": "A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. @pikapikapikaori",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a plugin to enhance gitalk for docsify.",
-            "homepage": "https://pikapikapikaori.github.io/docsify-gitalk-with-footer/",
-            "id": 634459020,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2023-05-04T21:25:55Z",
-            "open_issues": 6,
-            "owner": "pikapikapikaori",
-            "repo": "docsify-gitalk-with-footer",
-            "stars": 0,
-            "topics": [
-              "docsify",
-              "docsify-plugin"
-            ]
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
           "title": "docsify-xpost",
           "description": "A docsify plugin for rendering content blocks that resemble X posts.",
           "children": [],
@@ -2994,7 +2994,7 @@
             "open_issues": 131,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96694,
+            "stars": 96701,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68641,
+            "stars": 68696,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3058,8 +3058,8 @@
             "id": 118699373,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T02:26:05Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-18T01:06:33Z",
+            "open_issues": 5,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
             "stars": 2651,
@@ -3086,8 +3086,8 @@
                 "id": 118699373,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T02:26:05Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-18T01:06:33Z",
+                "open_issues": 5,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
                 "stars": 2651,
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:51:37.492Z",
+    "last_updated": "2026-09-18T21:22:40.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3118,8 +3118,8 @@
       "id": 118699373,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-07T02:26:05Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-18T01:06:33Z",
+      "open_issues": 5,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
       "stars": 2651,
@@ -3130,7 +3130,7 @@
         "docsify-plugin"
       ]
     },
-    "original_repository_sha": "b31bc7d5ff03916e53d3fafa86e3f82fdaf3b2a9",
+    "original_repository_sha": "79090db632dfd7e0fb317f0863fbdea2cf8b35b8",
     "enhanced_repository": "enhansome/enhansome-docsify",
     "enhanced_repository_description": null,
     "title": "Awesome Docsify with stars"
