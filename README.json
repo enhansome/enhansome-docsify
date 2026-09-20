@@ -432,7 +432,7 @@
             "id": 326521262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T08:16:47Z",
+            "last_commit": "2026-09-20T08:48:38Z",
             "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T06:14:01Z",
-            "open_issues": 131,
+            "open_issues": 133,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96711,
+            "stars": 96717,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-16T20:17:56Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 68736,
+            "stars": 68763,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3062,7 +3062,7 @@
             "open_issues": 4,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
-            "stars": 2651,
+            "stars": 2653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3090,7 +3090,7 @@
                 "open_issues": 4,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
-                "stars": 2651,
+                "stars": 2653,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:12:55.343Z",
+    "last_updated": "2026-09-20T21:07:56.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3122,7 +3122,7 @@
       "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2651,
+      "stars": 2653,
       "topics": [
         "awesome",
         "awesome-list",
