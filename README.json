@@ -406,7 +406,7 @@
             "id": 981709200,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-07-15T20:17:31Z",
+            "last_commit": "2026-09-26T13:02:56Z",
             "open_issues": 0,
             "owner": "tenelabs",
             "repo": "docsify-sitemap",
@@ -2994,7 +2994,7 @@
             "open_issues": 131,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96788,
+            "stars": 96801,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 11,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69055,
+            "stars": 69101,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:55:32.621Z",
+    "last_updated": "2026-09-26T21:44:09.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
