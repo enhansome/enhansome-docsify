@@ -22,7 +22,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Showcase
 
-* [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) ⭐ 1,014 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-26 - A simple and customizable data table, based on vue2 and element-ui.
+* [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) ⭐ 1,015 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-26 - A simple and customizable data table, based on vue2 and element-ui.
 * [Vudash](https://github.com/vudash/vudash) ⭐ 431 | 🐛 22 | 🌐 JavaScript | 📅 2020-06-06 - Powerful, Flexible, Open Source dashboards for anything.
 * [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) ⭐ 130 | 🐛 8 | 🌐 PHP | 📅 2026-07-26 project.
 * [:construction\_worker: :orange\_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) ⭐ 46 | 🐛 17 | 🌐 Makefile | 📅 2022-06-14 - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
@@ -304,8 +304,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,833 | 🐛 134 | 🌐 JavaScript | 📅 2026-09-19 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,207 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,851 | 🐛 134 | 🌐 JavaScript | 📅 2026-09-19 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,263 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -329,4 +329,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
