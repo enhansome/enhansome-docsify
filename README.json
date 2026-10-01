@@ -2990,11 +2990,11 @@
             "id": 311525798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T06:14:01Z",
+            "last_commit": "2026-10-01T13:20:34Z",
             "open_issues": 134,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96859,
+            "stars": 96869,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-16T20:17:56Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69316,
+            "stars": 69351,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3062,7 +3062,7 @@
             "open_issues": 4,
             "owner": "docsifyjs",
             "repo": "awesome-docsify",
-            "stars": 2654,
+            "stars": 2653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3090,7 +3090,7 @@
                 "open_issues": 4,
                 "owner": "docsifyjs",
                 "repo": "awesome-docsify",
-                "stars": 2654,
+                "stars": 2653,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3110,7 +3110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:45:36.174Z",
+    "last_updated": "2026-10-01T22:57:46.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3122,7 +3122,7 @@
       "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2654,
+      "stars": 2653,
       "topics": [
         "awesome",
         "awesome-list",
