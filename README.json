@@ -466,7 +466,7 @@
             "open_issues": 20,
             "owner": "iPeng6",
             "repo": "docsify-sidebar-collapse",
-            "stars": 192,
+            "stars": 191,
             "topics": [
               "docsify",
               "docsify-sidebar-collapse",
@@ -487,8 +487,8 @@
             "id": 164306266,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T13:34:07Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-04T17:01:44Z",
+            "open_issues": 1,
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
             "stars": 143,
@@ -835,7 +835,7 @@
             "open_issues": 0,
             "owner": "pfeak",
             "repo": "docsify-updated",
-            "stars": 36,
+            "stars": 35,
             "topics": [
               "docsify",
               "javascript",
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T13:20:34Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96885,
+            "stars": 96890,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69409,
+            "stars": 69439,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:56:26.479Z",
+    "last_updated": "2026-10-04T22:08:58.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
