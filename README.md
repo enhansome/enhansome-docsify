@@ -163,7 +163,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-27 - A ready-to-use template to create your own Docsify plugin from scratch.
 * [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2021-01-08 - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 * :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) ⚠️ Archived - :whale2: Docisify Docker image. @sujaykumarh
-* [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-09-26 - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
+* [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2026-10-04 - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
 * [docsify-nightly](https://github.com/sy-records/docsify-nightly) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-03 - Nightly release for docsify. @sy-records.
 * [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. [@hibbittsdesign](https://github.com/hibbitts-design).
 * [docsify-open-multicourse-starter-kit](https://hibbitts-design.github.io/docsify-open-multicourse-starter-kit/#/) - A MultiCourse variation of the Docsify Open Course Starter Kit to quickly create a Markdown-based open multi-course site with the site generator Docsify. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. @hibbittsdesign.
@@ -219,9 +219,9 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) ⚠️ Archived - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
 * [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-13 - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 * [docsify-waline](https://github.com/cxcn/docsify-waline) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-21 - A Docsify comment plugin for docsify that supports visitor statistics.
+* [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-19 - A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar. [@UliGall](https://github.com/UliGall)
 * [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-27
 * [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) ⚠️ Archived - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
-* [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-19 - A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar. [@UliGall](https://github.com/UliGall)
 * [docsify-puml](https://github.com/indieatom/docsify-puml) ⭐ 8 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-12 - Docsify plugin to parse PlantUML content [@indieatom](https://github.com/indieatom).
 * [docsify-material-icons](https://github.com/erickjx/docsify-material-icons) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-30 - Add Material Icons to documentation by tokens.
 * [docsify-swimlanes-io](https://github.com/drhoffmann/docsify-swimlanes-io) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-04 - A Docsify plugin to render [swimlanes.io](https://swimlanes.io) sequence diagrams.
@@ -253,7 +253,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-interactive-checkboxes](https://github.com/andreferra/docsify-plugin-interactive-checkboxes) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-07 - Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.
 * [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,799 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,800 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
@@ -304,8 +304,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,890 | 🐛 135 | 🌐 JavaScript | 📅 2026-10-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,439 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,899 | 🐛 135 | 🌐 JavaScript | 📅 2026-10-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,471 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -329,4 +329,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
