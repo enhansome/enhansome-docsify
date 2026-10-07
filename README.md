@@ -183,7 +183,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-pdf-converter](https://github.com/meff34/docsify-to-pdf-converter) ⭐ 91 | 🐛 26 | 🌐 JavaScript | 📅 2024-07-16 - Create PDF files based on your docsify project [@meff34](https://github.com/meff34).
 * [docsify-mermaid](https://github.com/Leward/mermaid-docsify) ⭐ 88 | 🐛 6 | 🌐 JavaScript | 📅 2023-11-27 - A plugin to render mermaid diagrams in docsify.
 * [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) ⭐ 81 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-02 - Add Edit on GitHub button on every pages @njleonzhang.
-* [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) ⭐ 80 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-06 - A plugin for rendering slate alike right example panels.
+* [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) ⭐ 79 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-06 - A plugin for rendering slate alike right example panels.
 * [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) ⭐ 74 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-10 - PlantUML for docsify @imyelo.
 * [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) ⭐ 58 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-02 - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
 * [docsify-changelog-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-changelog-plugin) ⭐ 51 | 🐛 48 | 🌐 CSS | 📅 2022-12-10 - Integrates your changelog in a sweet panel.
@@ -205,7 +205,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-kroki](https://github.com/zuisong/docsify-kroki) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-19 - A plugin to integration [kroki](https://kroki.io/) into docsify. [@zuisong](https://github.com/zuisong).
 * [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-15 - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 * [docsify-footer-enh](https://github.com/erickjx/docsify-footer-enh) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-08 - Footer Enhancement plugin.
-* [docsify-valine](https://github.com/daidi/docsify-valine/) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-06 - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) ⭐ 2,230 | 🐛 35 | 🌐 JavaScript | 📅 2024-12-31 on your docsify pages.
+* [docsify-valine](https://github.com/daidi/docsify-valine/) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-06 - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) ⭐ 2,229 | 🐛 35 | 🌐 JavaScript | 📅 2024-12-31 on your docsify pages.
 * [docsify-autoHeader](https://github.com/markbattistella/docsify-autoHeaders) ⭐ 16 | 🐛 0 | 📅 2026-05-09 - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
 * [docsify-progress](https://github.com/HerbertHe/docsify-progress) ⭐ 16 | 🐛 1 | 📅 2021-07-21 - A plugin to render reading progress in docsify. @HerbertHe.
 * [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) ⭐ 15 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-26 - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
@@ -304,8 +304,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,907 | 🐛 135 | 🌐 JavaScript | 📅 2026-10-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,501 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,915 | 🐛 136 | 🌐 JavaScript | 📅 2026-10-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,542 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -329,4 +329,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

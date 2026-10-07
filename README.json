@@ -657,7 +657,7 @@
             "open_issues": 13,
             "owner": "VagnerDomingues",
             "repo": "docsify-example-panels",
-            "stars": 80,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T13:20:34Z",
-            "open_issues": 135,
+            "open_issues": 136,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96907,
+            "stars": 96915,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-16T20:17:56Z",
-            "open_issues": 14,
+            "open_issues": 21,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69501,
+            "stars": 69542,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:51:19.458Z",
+    "last_updated": "2026-10-07T23:25:05.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3057,7 +3057,7 @@
       "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2653,
+      "stars": 2654,
       "topics": [
         "awesome",
         "awesome-list",
