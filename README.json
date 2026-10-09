@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1015,
+            "stars": 1014,
             "topics": [
               "datatable",
               "datatables",
@@ -2072,6 +2072,27 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-interactive-checkboxes",
+          "description": "Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight Docsify plugin for interactive, persistent checkboxes in markdown documentation",
+            "homepage": "https://andreferra.github.io/docsify-plugin-interactive-checkboxes/",
+            "id": 1110917784,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-09T13:47:27Z",
+            "open_issues": 1,
+            "owner": "andreferra",
+            "repo": "docsify-plugin-interactive-checkboxes",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
           "title": "docsify-Phaser",
           "description": "Enable Phaser code inside a docsify page.",
           "children": [],
@@ -2174,27 +2195,6 @@
             "open_issues": 0,
             "owner": "FlippedCodes",
             "repo": "docsify-betterembed",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-interactive-checkboxes",
-          "description": "Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lightweight Docsify plugin for interactive, persistent checkboxes in markdown documentation",
-            "homepage": "https://andreferra.github.io/docsify-plugin-interactive-checkboxes/",
-            "id": 1110917784,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-12-07T13:13:29Z",
-            "open_issues": 1,
-            "owner": "andreferra",
-            "repo": "docsify-plugin-interactive-checkboxes",
             "stars": 4,
             "topics": []
           },
@@ -2994,7 +2994,7 @@
             "open_issues": 136,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96924,
+            "stars": 96930,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 21,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69575,
+            "stars": 69612,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:36:49.447Z",
+    "last_updated": "2026-10-09T22:59:17.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
