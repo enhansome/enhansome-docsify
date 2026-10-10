@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 430,
+            "stars": 429,
             "topics": [
               "analytics",
               "automation",
@@ -2082,8 +2082,8 @@
             "id": 1110917784,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:47:27Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T15:36:21Z",
+            "open_issues": 0,
             "owner": "andreferra",
             "repo": "docsify-plugin-interactive-checkboxes",
             "stars": 5,
@@ -2994,7 +2994,7 @@
             "open_issues": 136,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96930,
+            "stars": 96934,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 21,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69612,
+            "stars": 69654,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:59:17.956Z",
+    "last_updated": "2026-10-10T22:08:14.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
