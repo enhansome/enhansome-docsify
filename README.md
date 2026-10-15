@@ -159,7 +159,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 * [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-17 - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 * [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2019-10-26 - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
-* [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) ⭐ 14 | 🐛 0 | 🌐 HTML | 📅 2025-06-03 - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) ⭐ 68 | 🐛 0 | 🌐 HTML | 📅 2026-07-23 repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
+* [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) ⭐ 14 | 🐛 0 | 🌐 HTML | 📅 2025-06-03 - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) ⭐ 67 | 🐛 0 | 🌐 HTML | 📅 2026-07-23 repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
 * [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-27 - A ready-to-use template to create your own Docsify plugin from scratch.
 * [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2021-01-08 - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 * :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) ⚠️ Archived - :whale2: Docisify Docker image. @sujaykumarh
@@ -205,7 +205,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-kroki](https://github.com/zuisong/docsify-kroki) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-19 - A plugin to integration [kroki](https://kroki.io/) into docsify. [@zuisong](https://github.com/zuisong).
 * [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-15 - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 * [docsify-footer-enh](https://github.com/erickjx/docsify-footer-enh) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-08 - Footer Enhancement plugin.
-* [docsify-valine](https://github.com/daidi/docsify-valine/) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-06 - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) ⭐ 2,228 | 🐛 35 | 🌐 JavaScript | 📅 2024-12-31 on your docsify pages.
+* [docsify-valine](https://github.com/daidi/docsify-valine/) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-06 - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) ⭐ 2,227 | 🐛 35 | 🌐 JavaScript | 📅 2024-12-31 on your docsify pages.
 * [docsify-autoHeader](https://github.com/markbattistella/docsify-autoHeaders) ⭐ 16 | 🐛 0 | 📅 2026-05-09 - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
 * [docsify-progress](https://github.com/HerbertHe/docsify-progress) ⭐ 16 | 🐛 1 | 📅 2021-07-21 - A plugin to render reading progress in docsify. @HerbertHe.
 * [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) ⭐ 15 | 🐛 5 | 🌐 JavaScript | 📅 2021-06-26 - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
@@ -253,7 +253,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-17 - A docsify.js plugin to embed selective areas from another markdown file.
 * [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,800 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,801 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
@@ -289,6 +289,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
 * [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) ([@jhildenbiddle][1]).
 * [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
+* [docsify-ai-chatbot](https://asyntai.com/documentation/integrations/docsify/) - Add an AI chatbot that answers reader questions from your own docs, in 80+ languages. [@asyntai](https://github.com/asyntai).
 
 ## Themes
 
@@ -304,8 +305,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,953 | 🐛 139 | 🌐 JavaScript | 📅 2026-10-11 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,784 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,963 | 🐛 140 | 🌐 JavaScript | 📅 2026-10-11 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 69,818 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -329,4 +330,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
