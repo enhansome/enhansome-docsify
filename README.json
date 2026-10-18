@@ -487,8 +487,8 @@
             "id": 164306266,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T10:44:28Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-18T11:01:14Z",
+            "open_issues": 3,
             "owner": "fzankl",
             "repo": "docsify-plugin-flexible-alerts",
             "stars": 144,
@@ -1251,8 +1251,8 @@
             "id": 343328590,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-09T07:54:19Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-18T11:31:23Z",
+            "open_issues": 1,
             "owner": "markbattistella",
             "repo": "docsify-charty",
             "stars": 14,
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T11:44:16Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96977,
+            "stars": 96989,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-09-16T20:17:56Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69918,
+            "stars": 69952,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:10:38.116Z",
+    "last_updated": "2026-10-18T21:12:03.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3053,11 +3053,11 @@
       "id": 118699373,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-15T08:03:45Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-18T03:31:26Z",
+      "open_issues": 3,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2655,
+      "stars": 2656,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3065,7 +3065,7 @@
         "docsify-plugin"
       ]
     },
-    "original_repository_sha": "a61a57e007949d5cb5b5fd98f2e56e611ed89455",
+    "original_repository_sha": "b097071bbee1bb15a85f91d02ff2194fbedbb7e3",
     "enhanced_repository": "enhansome/enhansome-docsify",
     "enhanced_repository_description": null,
     "title": "Awesome Docsify with stars"
