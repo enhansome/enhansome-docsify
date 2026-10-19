@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 429,
+            "stars": 428,
             "topics": [
               "analytics",
               "automation",
@@ -2336,6 +2336,36 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-dashboard",
+          "description": "A docsify plugin to create a dashboard from a JSON file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plugin for Docsify that creates a dashboard from a JSON file.",
+            "homepage": "https://erectbranch.github.io/#/docsify-dashboard/demo",
+            "id": 967543093,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2025-12-05T04:26:45Z",
+            "open_issues": 0,
+            "owner": "erectbranch",
+            "repo": "docsify-dashboard",
+            "stars": 3,
+            "topics": [
+              "dashboard",
+              "docs",
+              "docsify",
+              "javascript",
+              "markdown",
+              "md",
+              "plugin",
+              "tags"
+            ]
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
           "title": "docsify-infographic",
           "description": "A plugin to render @antv/infographic diagrams in docsify.",
           "children": [],
@@ -2446,31 +2476,22 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-dashboard",
-          "description": "A docsify plugin to create a dashboard from a JSON file.",
+          "title": "docsify-page-actions-menu",
+          "description": "A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A plugin for Docsify that creates a dashboard from a JSON file.",
-            "homepage": "https://erectbranch.github.io/#/docsify-dashboard/demo",
-            "id": 967543093,
+            "description": "A Docsify plugin for copying and exporting page markdown, LLM integrations, and more.",
+            "homepage": null,
+            "id": 1079476248,
             "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-05T04:26:45Z",
-            "open_issues": 0,
-            "owner": "erectbranch",
-            "repo": "docsify-dashboard",
+            "license": "MIT",
+            "last_commit": "2025-10-22T15:59:50Z",
+            "open_issues": 1,
+            "owner": "calycode",
+            "repo": "docsify-page-actions-menu",
             "stars": 2,
-            "topics": [
-              "dashboard",
-              "docs",
-              "docsify",
-              "javascript",
-              "markdown",
-              "md",
-              "plugin",
-              "tags"
-            ]
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2615,27 +2636,6 @@
               "drawio",
               "javascript"
             ]
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-page-actions-menu",
-          "description": "A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Docsify plugin for copying and exporting page markdown, LLM integrations, and more.",
-            "homepage": null,
-            "id": 1079476248,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-10-22T15:59:50Z",
-            "open_issues": 1,
-            "owner": "calycode",
-            "repo": "docsify-page-actions-menu",
-            "stars": 1,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2990,11 +2990,11 @@
             "id": 311525798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T11:44:16Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-19T04:10:03Z",
+            "open_issues": 143,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96989,
+            "stars": 96999,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 24,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 69952,
+            "stars": 70005,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:12:03.502Z",
+    "last_updated": "2026-10-19T22:44:03.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3054,7 +3054,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-10-18T03:31:26Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
       "stars": 2656,
