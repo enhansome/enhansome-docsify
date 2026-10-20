@@ -1436,7 +1436,7 @@
           "description": "Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.",
             "homepage": "https://docsify-dark-switcher.vercel.app",
             "id": 802735730,
@@ -2825,7 +2825,7 @@
           "description": "The minimal amount of CSS to replicate the GitHub Markdown style. Preview ~ @LIGMATV.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
             "homepage": "https://docsify-theme-github.vercel.app",
             "id": 794490781,
@@ -2990,11 +2990,11 @@
             "id": 311525798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T04:10:03Z",
-            "open_issues": 143,
+            "last_commit": "2026-10-20T21:43:35Z",
+            "open_issues": 145,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 96999,
+            "stars": 97002,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 24,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70005,
+            "stars": 70057,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:44:03.949Z",
+    "last_updated": "2026-10-20T22:00:09.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3053,8 +3053,8 @@
       "id": 118699373,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-18T03:31:26Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-20T07:54:52Z",
+      "open_issues": 3,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
       "stars": 2656,
@@ -3065,7 +3065,7 @@
         "docsify-plugin"
       ]
     },
-    "original_repository_sha": "b097071bbee1bb15a85f91d02ff2194fbedbb7e3",
+    "original_repository_sha": "b1db3f2b086e307f1337784ca96d1683a5098611",
     "enhanced_repository": "enhansome/enhansome-docsify",
     "enhanced_repository_description": null,
     "title": "Awesome Docsify with stars"

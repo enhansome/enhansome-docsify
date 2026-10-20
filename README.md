@@ -155,6 +155,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [JSON Model](https://json-model.org/) - Docs and benches for JSON Model, a compact and intuitive JSON syntax to describe JSON data structures.
 * [KIVA Practice Session](https://kiva.cri.minesparis.psl.eu/) - KIVA Flask and Postgres backend programming practice session for students.
 * [里探《道德经》新编](https://insseek-tao.netlify.app/) - A star map of the Tao Te Ching: 81 chapters rearranged by argument, every idea orbiting the Dao.
+* [里探《易经》](https://insseek-yijing.netlify.app/) - A reader's edition of the I Ching: 64 hexagrams with text, glosses, translation and commentary, a divination demo, and a 3D map of how the hexagrams relate.
+* [里探《飞鸟集》赏析](https://book-stray-birds.netlify.app/) - Tagore's Stray Birds in a new Chinese translation, with an appreciation note after every poem.
 
 ## Community Resources
 
@@ -218,7 +220,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-07 - A plugin that allows wiki internal link syntax by using double square Brackets like `[[pagename|link text]]`.
 * [docsify-beian](https://github.com/HerbertHe/docsify-beian) ⭐ 11 | 🐛 0 | 📅 2021-07-20 - A plugin to add Chinese Beian Information in docsify. [@HerbertHe](https://github.com/HerbertHe)
 * [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) ⚠️ Archived - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
-* [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-13 - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
+* [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) ⚠️ Archived - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 * [docsify-waline](https://github.com/cxcn/docsify-waline) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-21 - A Docsify comment plugin for docsify that supports visitor statistics.
 * [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-19 - A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar. [@UliGall](https://github.com/UliGall)
 * [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-27
@@ -254,7 +256,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-17 - A docsify.js plugin to embed selective areas from another markdown file.
 * [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,802 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,804 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
@@ -295,7 +297,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Themes
 
 * [:first\_quarter\_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) ⭐ 154 | 🐛 26 | 🌐 CSS | 📅 2026-06-15 - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
-* [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2025-07-13 - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) \~ [@LIGMATV](https://github.com/LIGMATV).
+* [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) ⚠️ Archived - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) \~ [@LIGMATV](https://github.com/LIGMATV).
 * [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) ⭐ 17 | 🐛 0 | 🌐 CSS | 📅 2026-07-17 - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 * [💾 docsify-theme-98](https://github.com/LIGMATV/docsify-theme-98) ⚠️ Archived - Bring back the old Windows Classic theme in Docsify. [Preview](https://docsify-theme-98.vercel.app/) \~ @LIGMATV.
 * [🧛🏻docsify-theme-darcula](https://github.com/A5yncX/docsify-theme-darcula) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2023-12-13 - A comfortable darcula style dark theme. [Preview](https://mellow-crepe-abaf27.netlify.app/docs/#/) . ([@A5yncX](https://github.com/A5yncX))
@@ -306,8 +308,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 96,999 | 🐛 143 | 🌐 JavaScript | 📅 2026-10-19 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,005 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,002 | 🐛 145 | 🌐 JavaScript | 📅 2026-10-20 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,057 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-09-16 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -331,4 +333,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
