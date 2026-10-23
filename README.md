@@ -256,7 +256,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-17 - A docsify.js plugin to embed selective areas from another markdown file.
 * [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,803 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,805 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
@@ -308,8 +308,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,008 | 🐛 145 | 🌐 JavaScript | 📅 2026-10-20 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,122 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-10-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,015 | 🐛 146 | 🌐 JavaScript | 📅 2026-10-20 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,158 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-10-21 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -333,4 +333,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
