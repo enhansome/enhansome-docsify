@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1014,
+            "stars": 1013,
             "topics": [
               "datatable",
               "datatables",
@@ -432,7 +432,7 @@
             "id": 326521262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T08:51:44Z",
+            "last_commit": "2026-10-27T09:19:37Z",
             "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
@@ -1055,27 +1055,6 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-corner",
-          "description": "A enhancement plugin for more repo widgets in top right corner, such as . @Koooooo-7",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":seedling: A docsify plugin for corner configuration enhancement.",
-            "homepage": null,
-            "id": 286070275,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-02-03T01:18:21Z",
-            "open_issues": 2,
-            "owner": "Koooooo-7",
-            "repo": "docsify-corner",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
           "title": "docsify-kroki",
           "description": "A plugin to integration kroki into docsify. @zuisong.",
           "children": [],
@@ -1099,6 +1078,27 @@
               "text-visualization",
               "visualization"
             ]
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-corner",
+          "description": "A enhancement plugin for more repo widgets in top right corner, such as . @Koooooo-7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":seedling: A docsify plugin for corner configuration enhancement.",
+            "homepage": null,
+            "id": 286070275,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-03T01:18:21Z",
+            "open_issues": 2,
+            "owner": "Koooooo-7",
+            "repo": "docsify-corner",
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2994,7 +2994,7 @@
             "open_issues": 147,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97023,
+            "stars": 97028,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-10-23T23:55:14Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70276,
+            "stars": 70300,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:58:53.412Z",
+    "last_updated": "2026-10-27T22:47:58.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3057,7 +3057,7 @@
       "open_issues": 3,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2659,
+      "stars": 2660,
       "topics": [
         "awesome",
         "awesome-list",
