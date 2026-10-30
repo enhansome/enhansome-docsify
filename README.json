@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "analytics",
               "automation",
@@ -432,7 +432,7 @@
             "id": 326521262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T10:00:12Z",
+            "last_commit": "2026-10-30T10:26:15Z",
             "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
@@ -2994,7 +2994,7 @@
             "open_issues": 147,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97039,
+            "stars": 97047,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 28,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70360,
+            "stars": 70385,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:03:41.134Z",
+    "last_updated": "2026-10-30T22:45:00.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
