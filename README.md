@@ -216,7 +216,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-commento](https://github.com/ndom91/docsify-commento) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2019-09-05 - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 * [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) ⭐ 12 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-10 - A plugin to make you easy to add Carbon Ads to docsify.
 * [docsify-sidebarFooter](https://github.com/markbattistella/docsify-sidebarFooter) ⭐ 11 | 🐛 0 | 📅 2026-05-09 - Add some links to the base of your sidebar - copyright year, company, Privacy Policy, Terms of Service.
-* [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-26 - EthicalAds support for Docsify.
+* [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-01 - EthicalAds support for Docsify.
 * [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-07 - A plugin that allows wiki internal link syntax by using double square Brackets like `[[pagename|link text]]`.
 * [docsify-beian](https://github.com/HerbertHe/docsify-beian) ⭐ 11 | 🐛 0 | 📅 2021-07-20 - A plugin to add Chinese Beian Information in docsify. [@HerbertHe](https://github.com/HerbertHe)
 * [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) ⚠️ Archived - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
@@ -239,7 +239,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-19 - A docsify plugin for footnote in markdown.
 * [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) ⚠️ Archived - A new always on top customizable and pretty navigation bar for your docs.
 * [docsify-glossary](https://github.com/stijn-dejongh/docsify-glossary) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-09 - A plugin to create a simple glossary for common terms. Revision of [the original glossary plugin](https://github.com/TheGreenToaster/docsify-glossary) ⭐ 16 | 🐛 19 | 🌐 JavaScript | 📅 2023-07-09 containing bugfixes and additional configuration options. [@stijn-dejongh](https://github.com/stijn-dejongh).
-* [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 - A plugin to embed a manipulable 3D model in your documentation.
+* [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-01 - A plugin to embed a manipulable 3D model in your documentation.
 * [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-20 - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
 * [docsify-bilibili](https://github.com/denganliang/docsify-bilibili) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2024-02-02 - A docsify plugin for easy to show biliblili video in markdown.
 * [docsify-pangu](https://github.com/sy-records/docsify-pangu) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-22 - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
@@ -266,7 +266,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin to support gitalk plus.
 * [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-27 - A docsify.js plugin for meting-api.
 * [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) ⚠️ Archived - A new responsive vite-like coverpage for your docs.
-* [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2025-10-22 - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
+* [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-01 - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
 * [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-10 - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
 * [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - A docsify plugin to enable busuanzi, show your site visit data.
 * [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-18 - A docsify plugin that hide code.
@@ -308,8 +308,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,056 | 🐛 147 | 🌐 JavaScript | 📅 2026-10-20 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,410 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-10-23 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,057 | 🐛 148 | 🌐 JavaScript | 📅 2026-11-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,442 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-10-23 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -333,4 +333,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
