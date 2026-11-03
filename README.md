@@ -166,7 +166,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-27 - A ready-to-use template to create your own Docsify plugin from scratch.
 * [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2021-01-08 - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 * :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) ⚠️ Archived - :whale2: Docisify Docker image. @sujaykumarh
-* [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2026-10-04 - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
+* [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) ⭐ 6 | 🐛 1 | 🌐 HTML | 📅 2026-10-04 - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
 * [docsify-nightly](https://github.com/sy-records/docsify-nightly) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Nightly release for docsify. @sy-records.
 * [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. [@hibbittsdesign](https://github.com/hibbitts-design).
 * [docsify-open-multicourse-starter-kit](https://hibbitts-design.github.io/docsify-open-multicourse-starter-kit/#/) - A MultiCourse variation of the Docsify Open Course Starter Kit to quickly create a Markdown-based open multi-course site with the site generator Docsify. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. @hibbittsdesign.
@@ -266,7 +266,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin to support gitalk plus.
 * [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-27 - A docsify.js plugin for meting-api.
 * [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) ⚠️ Archived - A new responsive vite-like coverpage for your docs.
-* [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-01 - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
+* [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-01 - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
 * [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-10 - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
 * [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-08 - A docsify plugin to enable busuanzi, show your site visit data.
 * [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-18 - A docsify plugin that hide code.
@@ -308,8 +308,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,057 | 🐛 148 | 🌐 JavaScript | 📅 2026-11-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,442 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-10-23 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,072 | 🐛 148 | 🌐 JavaScript | 📅 2026-11-01 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,498 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-23 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -333,4 +333,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
