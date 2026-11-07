@@ -2994,7 +2994,7 @@
             "open_issues": 145,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97117,
+            "stars": 97121,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-04T20:18:12Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70614,
+            "stars": 70624,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:36:08.154Z",
+    "last_updated": "2026-11-07T22:27:31.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
