@@ -256,13 +256,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-17 - A docsify.js plugin to embed selective areas from another markdown file.
 * [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-09-18 - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify\@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 * [docsify-rtl](https://github.com/ckoliber/docsify-rtl) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
-* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,812 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
+* [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) ⭐ 17,814 | 🐛 144 | 🌐 HTML | 📅 2026-07-07 for docsify.(推特 emoji)
 * [docsify-livere💬](https://github.com/TaQini/docsify-livere) ⭐ 3 | 🐛 0 | 📅 2020-04-08 - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 * [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-24 - A Docsify plugin to render customized Ko-fi buttons from markdown.
+* [docsify-live-demo](https://github.com/kossidts/docsify-live-demo) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-18 - A docsify plugin to showcase frontend code and let clients/readers interact with the code, [kossidts](https://github.com/kossidts).
 * [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin for Baidu Statistics.
 * [docsify-dashboard](https://github.com/erectbranch/docsify-dashboard) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-05 - A docsify plugin to create a dashboard from a JSON file.
 * [docsify-infographic](https://github.com/bulexu/docsify-infographic) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - A plugin to render @antv/infographic diagrams in docsify.
-* [docsify-live-demo](https://github.com/kossidts/docsify-live-demo) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-18 - A docsify plugin to showcase frontend code and let clients/readers interact with the code, [kossidts](https://github.com/kossidts).
 * [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-07 - A docsify plugin to support gitalk plus.
 * [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-27 - A docsify.js plugin for meting-api.
 * [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) ⚠️ Archived - A new responsive vite-like coverpage for your docs.
@@ -308,8 +308,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,122 | 🐛 149 | 🌐 JavaScript | 📅 2026-11-09 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,680 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-11-04 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,121 | 🐛 151 | 🌐 JavaScript | 📅 2026-11-09 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,700 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-11-04 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)

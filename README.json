@@ -2315,6 +2315,27 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-live-demo",
+          "description": "A docsify plugin to showcase frontend code and let clients/readers interact with the code, kossidts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A docsify plugin to showcase frontend code and let client interact with the code.",
+            "homepage": null,
+            "id": 594477262,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-09-18T11:32:04Z",
+            "open_issues": 3,
+            "owner": "kossidts",
+            "repo": "docsify-live-demo",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
           "title": "docsify-baidu-tj",
           "description": "A docsify plugin for Baidu Statistics.",
           "children": [],
@@ -2381,27 +2402,6 @@
             "owner": "bulexu",
             "repo": "docsify-infographic",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-live-demo",
-          "description": "A docsify plugin to showcase frontend code and let clients/readers interact with the code, kossidts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A docsify plugin to showcase frontend code and let client interact with the code.",
-            "homepage": null,
-            "id": 594477262,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-09-18T11:32:04Z",
-            "open_issues": 3,
-            "owner": "kossidts",
-            "repo": "docsify-live-demo",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-09T08:30:55Z",
-            "open_issues": 149,
+            "open_issues": 151,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97122,
+            "stars": 97121,
             "topics": [
               "css",
               "curriculum",
@@ -3021,10 +3021,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-04T20:18:12Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70680,
+            "stars": 70700,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:49:32.197Z",
+    "last_updated": "2026-11-10T23:50:52.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
