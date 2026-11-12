@@ -1666,27 +1666,6 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-link-preview",
-          "description": "A plugin to render link previews.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 320840232,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2020-12-12T14:16:05Z",
-            "open_issues": 0,
-            "owner": "puria",
-            "repo": "docsify-link-preview",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
           "title": "docsify-plugin-footer",
           "description": "Simplified docisify page footer. @sujaykumarh.",
           "children": [],
@@ -1710,27 +1689,6 @@
               "sujaykumarh",
               "sujaykumarh-plugin"
             ]
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-accordion",
-          "description": "Small plugin to use accordions in your docsify documentations @isaozler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Accordion plugin for docsify",
-            "homepage": null,
-            "id": 415845234,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2023-04-26T10:46:41Z",
-            "open_issues": 1,
-            "owner": "isaozler",
-            "repo": "docsify-accordion",
-            "stars": 7,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -1841,33 +1799,6 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-glossary",
-          "description": "A plugin to create a simple glossary for common terms. Revision of the original glossary plugin containing bugfixes and additional configuration options. @stijn-dejongh.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple Glossary for Docsify that replaces occurrences of words in text with links to the glossary definitions.",
-            "homepage": null,
-            "id": 565383831,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-09T11:11:00Z",
-            "open_issues": 0,
-            "owner": "stijn-dejongh",
-            "repo": "docsify-glossary",
-            "stars": 6,
-            "topics": [
-              "docsify-plugin",
-              "documentation",
-              "glossary",
-              "javascript",
-              "markdown"
-            ]
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
           "title": "docsify-gtlfexplorer",
           "description": "A plugin to embed a manipulable 3D model in your documentation.",
           "children": [],
@@ -1882,6 +1813,48 @@
             "open_issues": 0,
             "owner": "X-Ryl669",
             "repo": "docsify-gltfexplorer",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-link-preview",
+          "description": "A plugin to render link previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 320840232,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2020-12-12T14:16:05Z",
+            "open_issues": 0,
+            "owner": "puria",
+            "repo": "docsify-link-preview",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-accordion",
+          "description": "Small plugin to use accordions in your docsify documentations @isaozler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Accordion plugin for docsify",
+            "homepage": null,
+            "id": 415845234,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2023-04-26T10:46:41Z",
+            "open_issues": 1,
+            "owner": "isaozler",
+            "repo": "docsify-accordion",
             "stars": 6,
             "topics": []
           },
@@ -1926,6 +1899,33 @@
             "repo": "docsify-bilibili",
             "stars": 6,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-glossary",
+          "description": "A plugin to create a simple glossary for common terms. Revision of the original glossary plugin containing bugfixes and additional configuration options. @stijn-dejongh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple Glossary for Docsify that replaces occurrences of words in text with links to the glossary definitions.",
+            "homepage": null,
+            "id": 565383831,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2023-07-09T11:11:00Z",
+            "open_issues": 0,
+            "owner": "stijn-dejongh",
+            "repo": "docsify-glossary",
+            "stars": 5,
+            "topics": [
+              "docsify-plugin",
+              "documentation",
+              "glossary",
+              "javascript",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2294,27 +2294,6 @@
         },
         {
           "node_type": "item",
-          "title": "docsify-ko-fi",
-          "description": "A Docsify plugin to render customized Ko-fi buttons from markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Docsify plugin to render customized Ko-fi buttons from markdown",
-            "homepage": "https://fcannizzaro.github.io/docsify-ko-fi",
-            "id": 441474539,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2021-12-24T14:02:20Z",
-            "open_issues": 1,
-            "owner": "fcannizzaro",
-            "repo": "docsify-ko-fi",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
           "title": "docsify-live-demo",
           "description": "A docsify plugin to showcase frontend code and let clients/readers interact with the code, kossidts.",
           "children": [],
@@ -2402,6 +2381,27 @@
             "owner": "bulexu",
             "repo": "docsify-infographic",
             "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docsify-ko-fi",
+          "description": "A Docsify plugin to render customized Ko-fi buttons from markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Docsify plugin to render customized Ko-fi buttons from markdown",
+            "homepage": "https://fcannizzaro.github.io/docsify-ko-fi",
+            "id": 441474539,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2021-12-24T14:02:20Z",
+            "open_issues": 1,
+            "owner": "fcannizzaro",
+            "repo": "docsify-ko-fi",
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
@@ -2904,7 +2904,7 @@
             "open_issues": 0,
             "owner": "A5yncX",
             "repo": "docsify-theme-darcula",
-            "stars": 4,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
@@ -2990,11 +2990,11 @@
             "id": 311525798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:30:55Z",
+            "last_commit": "2026-11-11T11:06:59Z",
             "open_issues": 151,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97121,
+            "stars": 97125,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70700,
+            "stars": 70723,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:50:52.912Z",
+    "last_updated": "2026-11-12T01:13:35.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3057,7 +3057,7 @@
       "open_issues": 3,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2662,
+      "stars": 2663,
       "topics": [
         "awesome",
         "awesome-list",
