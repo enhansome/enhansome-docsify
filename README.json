@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "analytics",
               "automation",
@@ -432,7 +432,7 @@
             "id": 326521262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:30:23Z",
+            "last_commit": "2026-11-14T10:53:38Z",
             "open_issues": 0,
             "owner": "sy-records",
             "repo": "docsify-nightly",
@@ -2202,6 +2202,27 @@
         },
         {
           "node_type": "item",
+          "title": "docsify-infographic",
+          "description": "A plugin to render @antv/infographic diagrams in docsify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plugin to render @antv/infographic diagrams in docsify",
+            "homepage": null,
+            "id": 1139561081,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-01-22T09:18:38Z",
+            "open_issues": 0,
+            "owner": "bulexu",
+            "repo": "docsify-infographic",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:57:37.686Z"
+        },
+        {
+          "node_type": "item",
           "title": "docsify-simple-dark-mode",
           "description": "A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify@5 themes. @pikapikapikaori",
           "children": [],
@@ -2361,27 +2382,6 @@
               "plugin",
               "tags"
             ]
-          },
-          "first_seen": "2026-08-29T01:57:37.686Z"
-        },
-        {
-          "node_type": "item",
-          "title": "docsify-infographic",
-          "description": "A plugin to render @antv/infographic diagrams in docsify.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A plugin to render @antv/infographic diagrams in docsify",
-            "homepage": null,
-            "id": 1139561081,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-01-22T09:18:38Z",
-            "open_issues": 0,
-            "owner": "bulexu",
-            "repo": "docsify-infographic",
-            "stars": 3,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:57:37.686Z"
         },
@@ -2994,7 +2994,7 @@
             "open_issues": 154,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97130,
+            "stars": 97126,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 70766,
+            "stars": 70792,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:04:24.519Z",
+    "last_updated": "2026-11-14T22:50:07.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
