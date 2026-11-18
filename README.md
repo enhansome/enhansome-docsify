@@ -157,6 +157,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 * [里探《道德经》新编](https://insseek-tao.netlify.app/) - A star map of the Tao Te Ching: 81 chapters rearranged by argument, every idea orbiting the Dao.
 * [里探《易经》](https://insseek-yijing.netlify.app/) - A reader's edition of the I Ching: 64 hexagrams with text, glosses, translation and commentary, a divination demo, and a 3D map of how the hexagrams relate.
 * [里探《飞鸟集》赏析](https://book-stray-birds.netlify.app/) - Tagore's Stray Birds in a new Chinese translation, with an appreciation note after every poem.
+* [GallantTarry](https://xn--9myv52d.xn--udsye.art/) - A multi-domain knowledge vault built with Docsify featuring dual glassmorphism themes, embedded interactive widgets, and open community submissions.
 
 ## Community Resources
 
@@ -308,8 +309,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## Enterprise Usage
 
-* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,120 | 🐛 155 | 🌐 JavaScript | 📅 2026-11-11 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,931 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-15 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
+* Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ⭐ 97,126 | 🐛 155 | 🌐 JavaScript | 📅 2026-11-11 - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+* Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) ⭐ 70,984 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-15 - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 * Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
@@ -333,4 +334,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
