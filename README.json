@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "datatable",
               "datatables",
@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "vudash",
             "repo": "vudash",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "analytics",
               "automation",
@@ -81,7 +81,7 @@
             "id": 17303525,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-26T22:58:18Z",
+            "last_commit": "2026-11-19T22:41:34Z",
             "open_issues": 8,
             "owner": "julien-boudry",
             "repo": "Condorcet",
@@ -2991,10 +2991,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-18T01:50:01Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97135,
+            "stars": 97139,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 11,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 71012,
+            "stars": 71026,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:54:17.026Z",
+    "last_updated": "2026-11-20T00:58:38.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
