@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1012,
+            "stars": 1011,
             "topics": [
               "datatable",
               "datatables",
@@ -2994,7 +2994,7 @@
             "open_issues": 159,
             "owner": "microsoft",
             "repo": "Web-Dev-For-Beginners",
-            "stars": 97161,
+            "stars": 97160,
             "topics": [
               "css",
               "curriculum",
@@ -3024,7 +3024,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "AI-For-Beginners",
-            "stars": 71214,
+            "stars": 71240,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3045,7 +3045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:08:58.967Z",
+    "last_updated": "2026-11-25T02:53:23.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "💖 A curated list of awesome things related to docsify",
@@ -3057,7 +3057,7 @@
       "open_issues": 3,
       "owner": "docsifyjs",
       "repo": "awesome-docsify",
-      "stars": 2666,
+      "stars": 2665,
       "topics": [
         "awesome",
         "awesome-list",
